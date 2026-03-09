@@ -18,4 +18,9 @@ My research lies at the intersection of stochastic simulation, statistical learn
 By integrating modern AI---particularly learning and generative models, I develop methodologies and algorithms that are both theoretically grounded and practically relevant. My work is motivated by applications in mechanism design, supply chain management, and financial risk management.
 </p>
 
+<p style="margin-bottom: 1.5em;">
+Feel free to contact me at 
+  <a href="mailto:yanyuan.wang@connect.ust.hk">yanyuan.wang@connect.ust.hk</a>.
+</p>
+
 </div>
