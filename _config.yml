@@ -33,18 +33,19 @@ author:
   email            : "yanyuan.wang@connect.ust.hk" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : 
+  arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?user=0zQ9zJsAAAAJ&hl"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : # URL
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : 
+  semantic         : 
+  ssrn             : 
+  linkedin         : "https://www.linkedin.com/in/yanyuan-wang/"
+  pubmed           : 
+  researchgate     : 
+  scopus           : 
+  zotero           : 
 
 
   # Repositories and software development
