@@ -15,11 +15,6 @@ I am a final-year PhD student in Operations Research in the Department of Indust
 <br>
 
 <div style="text-align: justify; text-justify: inter-word;">
-<p style="margin-bottom: 1.2em;">
-My research lies at the intersection of stochastic simulation, statistical learning, and optimization.
-</p>
-
-<p style="margin-bottom: 1.2em;">
-Leveraging modern AI (particularly learning and generative models), I develop methodologies and algorithms that advance decision-making under uncertainty. My work is motivated by applications in mechanism design, supply chain management, and financial risk management.
-</p>
+My research lies at the intersection of stochastic simulation, statistical learning, and optimization to advance data-driven decision-making under uncertainty.
+By integrating modern AI---particularly learning and generative models, I develop methodologies and algorithms that are both theoretically grounded and practically relevant. My work is motivated by applications in mechanism design, supply chain management, and financial risk management.
 </div>
