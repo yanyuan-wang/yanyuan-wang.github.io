@@ -9,13 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
-* Ph.D in Operations Research, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-
-Hong Kong University of Science and Technology 
-Ph.D. Student in Operations Research (GPA: 4.12/4.30) 2023–2026 (Expected)
-Advisor: Prof. Xiaowei Zhang
+* Ph.D in Operations Research, HKUST 2026 (expected) (GPA: 4.12/4.30)
+* M.S. in Business Analytics, HKU 2020 (GPA: 4.21/4.30, with Distinction) 
+* B.B.A. in Business Administration, SHU 2019 (GPA: 3.84/4.00, top 0.5%)
