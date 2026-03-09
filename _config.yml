@@ -29,7 +29,7 @@ author:
   bio              : "PhD Student in OR"
   location         : "Hong Kong"
   employer         : "HKUST"
-  uri              : # URL
+  uri              : 
   email            : "yanyuan.wang@connect.ust.hk" 
 
   # Academic websites
@@ -52,13 +52,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
