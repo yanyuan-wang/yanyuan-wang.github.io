@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+<br>
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
-I am a final-year PhD student in Operations Research, from the Department of Industrial Engineering and Decision Analytics at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Professor <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
+I am a final-year PhD student in Operations Research, from the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Professor <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
 </p>
 
 <p style="margin-bottom: 1.5em;">
-My research lies at the intersection of stochastic simulation, statistical learning, and optimization to advance data-driven decision-making under uncertainty.
-By integrating modern AI---particularly learning and generative models, I develop methodologies and algorithms that are both theoretically grounded and practically relevant. My work is motivated by applications in mechanism design, supply chain management, and financial risk management.
+My research lies at the intersection of stochastic simulation, statistical learning and optimization to advance data-driven decision-making under uncertainty.
+By integrating modern AI---particularly machine learning and generative models, I develop methodologies and algorithms that are both theoretically grounded and practically relevant. My work is motivated by applications in mechanism design, supply chain management, and financial risk management.
 </p>
 
 <p style="margin-bottom: 1.5em;">
