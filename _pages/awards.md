@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Headings are cool
 ======
 * Ph.D in Operations Research, HKUST 2026 (expected) (GPA: 4.12/4.30)
 * M.S. in Business Analytics, HKU 2020 (GPA: 4.21/4.30, with Distinction) 

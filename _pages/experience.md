@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Experiences"
+permalink: /experiences/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Education
+======
+* Ph.D in Operations Research, HKUST, 2026 (expected) (GPA 4.12/4.30)
+* M.S. in Business Analytics, HKU, 2020 (GPA 4.21/4.30, with Distinction) 
+* B.B.A. in Business Administration, SHU, 2019 (GPA 3.84/4.00)
