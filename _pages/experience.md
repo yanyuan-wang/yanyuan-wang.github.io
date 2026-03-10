@@ -19,21 +19,13 @@ Education
 Research Assistant
 ======
 * The University of Hong Kong, Summer 2020 (Advisor: Prof. Xiaowei Zhang}
-* M.S. in Business Analytics, HKU, 2020 (GPA 4.21/4.30, with Distinction) 
-* B.B.A. in Business Administration, SHU, 2019 (GPA 3.84/4.00)
+* Shanghai University, 2017-2019 (Advisor: Prof. Maoguo Wu}
+    - Influencing Factors of Corporate Performance of Life Insurance Companies: Evidence from China.
+    - Risk Analysis of World Major Stock Index Before and After the 2008 Financial Crisis Based on GARCH-VaR Approach.
 
 
 
-\entrybig
-	{\textbf{}}{Hong Kong}
-	{Research Assistant}{Summer 2020}
-    {\small Advisor: Prof. Xiaowei Zhang}
-    
-\entrybig
-	{\textbf{Shanghai University }}{Shanghai, China}
-	{Research Assistant}{2017-2019}
-    \innerlist{
-        \entry{M. Wu and \textbf{Y. Wang}, ``Influencing Factors of Corporate Performance of Life Insurance Companies: Evidence from China'', \textit{Accounting and Finance Research}, vol. 7, no. 2, pp. 219-231, 2018.}
-        \entry{M. Wu and \textbf{Y. Wang}, ``Risk Analysis of World Major Stock Index Before and After the 2008 Financial Crisis Based on GARCH-VaR Approach'', \textit{International Journal of Financial Research}, vol. 9, no. 2, pp. 39-54, 2018.}
-    }
-}
+Junior Achievement
+======
+* Teaching: JA Economy, Fall 2018
+* Committee Member: JA Student Volunteer Program, 2018-2019
