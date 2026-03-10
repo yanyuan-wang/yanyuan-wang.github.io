@@ -3,8 +3,8 @@ layout: archive
 # title: "Services"
 permalink: /services/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
