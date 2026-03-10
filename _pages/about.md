@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-</br>
+<br>
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
