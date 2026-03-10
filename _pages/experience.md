@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 
 Education
@@ -31,5 +31,5 @@ Research Assistant
 
 Junior Achievement
 ======
-* Teaching: JA Economy, Fall 2018
+* Teaching: JA Economy (10th Grade), 2018
 * Committee Member: JA Student Volunteer Program, 2018-2019
