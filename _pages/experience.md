@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Operations Research, HKUST, 2026 (expected) (GPA 4.12/4.30)
-* M.S. in Business Analytics, HKU, 2020 (GPA 4.21/4.30, with Distinction) 
-* B.B.A. in Business Administration, SHU, 2019 (GPA 3.84/4.00)
+* Ph.D in Operations Research, HKUST 2026 (expected) (GPA: 4.12/4.30)
+* Ph.D Candidate in Operations Research, HKU 2023 (GPA: 4.00/4.00)
+* M.S. in Business Analytics, HKU 2020 (GPA: 4.21/4.30, with Distinction) 
+* B.B.A. in Business Administration, SHU 2019 (GPA: 3.84/4.00, top 0.5%)
 
 
 Research Assistant
@@ -22,7 +23,6 @@ Research Assistant
 * Shanghai University, 2017-2019 (Advisor: Prof. Maoguo Wu}
     - Influencing Factors of Corporate Performance of Life Insurance Companies: Evidence from China.
     - Risk Analysis of World Major Stock Index Before and After the 2008 Financial Crisis Based on GARCH-VaR Approach.
-
 
 
 Junior Achievement
