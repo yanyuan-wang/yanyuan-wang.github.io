@@ -20,8 +20,8 @@ Education
 
 Research Assistant
 ======
-* The University of Hong Kong, Summer 2020 (Advisor: Prof. Xiaowei Zhang}
-* Shanghai University, 2017-2019 (Advisor: Prof. Maoguo Wu}
+* The University of Hong Kong, Summer 2020 (Advisor: Prof. Xiaowei Zhang)
+* Shanghai University, 2017-2019 (Advisor: Prof. Maoguo Wu)
     - Influencing Factors of Corporate Performance of Life Insurance Companies: Evidence from China.
     - Risk Analysis of World Major Stock Index Before and After the 2008 Financial Crisis Based on GARCH-VaR Approach.
 
