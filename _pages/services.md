@@ -9,5 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-* Journal Reviewer for Operations Research, Naval Research Logistics, Asia-Pacific Journal of Operational Research
-* Program Committee Member of 2025 Winter Simulation Conference (Analysis Method Track)
+
+Journal Reviewer
+======
+* Operations Research
+* Naval Research Logistics
+* Asia-Pacific Journal of Operational Research
+
+
+<br>
+
+Committee Member
+======
+* 2025 Winter Simulation Conference (Analysis Method Track)

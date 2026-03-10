@@ -22,7 +22,7 @@ Education
 Research Assistant
 ======
 * University of Hong Kong, Summer 2020
-  - Agent-based modeling for collective turnover
+  - Agent-based Modeling for Collective Turnover
 * Shanghai University, 2017-2019
   - Influencing Factors of Corporate Performance of Life Insurance Companies: Evidence from China
   - Risk Analysis of World Major Stock Index Before and After the 2008 Financial Crisis Based on GARCH-VaR Approach
