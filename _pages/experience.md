@@ -12,10 +12,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Operations Research, HKUST 2026 (expected) (GPA: 4.12/4.30)
-* Ph.D Candidate in Operations Research, HKU 2023 (GPA: 4.00/4.00)
-* M.S. in Business Analytics, HKU 2020 (GPA: 4.21/4.30, with Distinction) 
-* B.B.A. in Business Administration, SHU 2019 (GPA: 3.84/4.00, Top 0.5%)
+* Ph.D in Operations Research, Hong Kong University of Science and Technology, 2026 (expected) (GPA: 4.12/4.30)
+* Ph.D Candidate in Operations Research, The University of Hong Kong, 2023 (GPA: 4.00/4.00)
+* M.S. in Business Analytics, The University of Hong Kong, 2020 (GPA: 4.21/4.30, with Distinction) 
+* B.B.A. in Business Administration, Shanghai University, 2019 (GPA: 3.84/4.00, Top 0.5%)
 
 
 Research Assistant
