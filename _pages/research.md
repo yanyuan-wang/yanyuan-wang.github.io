@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research Interest
+Research Interests
 ======
 * LLMs for Simulation Optimization
 * Stochastic Optimization

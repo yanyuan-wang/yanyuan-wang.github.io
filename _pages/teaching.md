@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-Teaching Interest
+Teaching Interests
 ====
 * Stochastic Optimization
 * Reinforcement Learning
