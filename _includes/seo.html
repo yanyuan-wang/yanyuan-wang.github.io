@@ -25,12 +25,6 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 <meta name="description" content="{{ seo_description }}">
-<!-- Custom SEO metadata for Yanyuan Wang -->
-<title>Yanyuan Wang | PhD Student in Operations Research at HKUST</title>
-<meta name="description" content="Homepage of Yanyuan Wang, PhD student in Operations Research at HKUST. Research in stochastic simulation, optimization, and machine learning for data-driven decision-making.">
-<meta name="keywords" content="Yanyuan Wang, Operations Research, HKUST, Stochastic Simulation, Optimization, Machine Learning">
-<meta name="author" content="Yanyuan Wang">
-<link rel="canonical" href="https://yanyuan-wang.github.io/">
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
