@@ -16,7 +16,6 @@ Journal Reviewer
 * Naval Research Logistics
 * Asia-Pacific Journal of Operational Research
 
-
 <br>
 
 Committee Member
