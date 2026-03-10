@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+</br>
+
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
 I am a final-year PhD student in Operations Research, from the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Professor <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
