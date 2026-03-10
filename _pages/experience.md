@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experiences"
+# title: "Experiences"
 permalink: /experiences/
 author_profile: true
 redirect_from:
