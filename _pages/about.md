@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
-I am currently a final-year PhD student in <strong>Operations Research</strong>, in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by <a href="https://xiaoweiz.github.io/" target="_blank">Professor Xiaowei Zhang</a>. 
+I am currently a final-year PhD student in <strong>Operations Research</strong> in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by <a href="https://xiaoweiz.github.io/" target="_blank">Professor Xiaowei Zhang</a>. 
 </p>
 
 <p style="margin-bottom: 1.5em;">
