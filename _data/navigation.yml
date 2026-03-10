@@ -11,9 +11,6 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Services"
-    url: /services/
-
   - title: "Talks"
     url: /talks/    
     
@@ -22,6 +19,9 @@ main:
   
   - title: "Teaching"
     url: /teaching/  
-      
+
+  - title: "Services"
+    url: /services/
+
   - title: "Awards"
     url: /awards/
