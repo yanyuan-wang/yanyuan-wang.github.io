@@ -18,6 +18,7 @@ Teaching Interest
 * Generative AI and LLM
 * Simulation and Stochastic Models
 
+<br>
 
 Teaching Assistant
 ====
