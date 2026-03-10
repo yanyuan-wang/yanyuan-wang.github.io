@@ -17,6 +17,7 @@ Education
 * M.S. in Business Analytics, University of Hong Kong, 2020 (GPA: 4.21/4.30, with Distinction) 
 * B.B.A. in Business Administration, Shanghai University, 2019 (GPA: 3.84/4.00, Top 0.5%)
 
+<br>
 
 Research Assistant
 ======
@@ -26,6 +27,7 @@ Research Assistant
   - Influencing Factors of Corporate Performance of Life Insurance Companies: Evidence from China
   - Risk Analysis of World Major Stock Index Before and After the 2008 Financial Crisis Based on GARCH-VaR Approach
 
+<br>
 
 Junior Achievement
 ======
