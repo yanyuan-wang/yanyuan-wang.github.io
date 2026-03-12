@@ -12,8 +12,8 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Operations Research, Hong Kong University of Science and Technology, 2026 (expected) (GPA: 4.12/4.30)
-* Ph.D Candidate in Operations Research, University of Hong Kong, 2023 (GPA: 4.00/4.00)
+* Ph.D. in Operations Research, Hong Kong University of Science and Technology, 2026 (expected) (GPA: 4.12/4.30)
+* Ph.D. Candidate in Operations Research, University of Hong Kong, 2023 (GPA: 4.00/4.00)
 * M.S. in Business Analytics, University of Hong Kong, 2020 (GPA: 4.21/4.30, with Distinction) 
 * B.B.A. in Business Administration, Shanghai University, 2019 (GPA: 3.84/4.00, Top 0.5%)
 
