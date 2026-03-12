@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-Education
+Educationd
 ======
 * Ph.D. in Operations Research, Hong Kong University of Science and Technology, 2026 (expected) (GPA: 4.12/4.30)
 * Ph.D. Candidate in Operations Research, University of Hong Kong, 2023 (GPA: 4.00/4.00)
