@@ -18,7 +18,7 @@ Journal Reviewer
 
 <br>
 
-Committee Member
+Committee Members
 ======
 * 2026 Winter Simulation Conference (Analysis Method Track)
 * 2025 Winter Simulation Conference (Analysis Method Track)
