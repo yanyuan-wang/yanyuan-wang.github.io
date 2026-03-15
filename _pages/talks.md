@@ -11,5 +11,5 @@ author_profile: true
 
 
 * 16th POMS-HK International Conference (Invited Session), Shenzhen 
-* 2025 INFORMS International Meeting, Singapore
+* 2025 INFORMS International Meeting (Invited Session), Singapore
 * 13th POMS-HK International Conference (Session Chair), Hong Kong

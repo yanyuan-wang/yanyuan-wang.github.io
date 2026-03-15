@@ -22,10 +22,13 @@ Education
 Research Assistant
 ======
 * University of Hong Kong, Summer 2020
-  - Agent-based Modeling for Collective Turnover
+  - Advisor: Prof. Xiaowei Zhang
+  - Topic: Agent-based Modeling for Collective Turnover
 * Shanghai University, 2017-2019
-  - Influencing Factors of Corporate Performance of Life Insurance Companies: Evidence from China
-  - Risk Analysis of World Major Stock Index Before and After the 2008 Financial Crisis Based on GARCH-VaR Approach
+  - Advisor: Prof. Maoguo Wu
+  - Topic 1: Stock Index Risk Modeling via GARCH-VaR
+  - Topic 2: Determinants of Life Insurance Firm Performance
+
 
 <br>
 
