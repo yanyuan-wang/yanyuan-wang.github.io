@@ -298,6 +298,15 @@ defaults:
       layout: awards
       author_profile: true
       share: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
