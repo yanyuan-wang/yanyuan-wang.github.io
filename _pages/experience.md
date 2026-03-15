@@ -27,7 +27,7 @@ Research Assistant
 * Shanghai University, 2017-2019
   - Advisor: Prof. Maoguo Wu
   - Topic 1: Stock Index Risk Modeling via GARCH-VaR
-  - Topic 2: Determinants of Life Insurance Firm Performance
+  - Topic 2: Factors Influencing Life Insurance Firm Performance
 
 
 <br>
