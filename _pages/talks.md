@@ -20,5 +20,5 @@ Contextual Decision-making</strong>
     - 16th POMS-HK International Conference (Invited Session), Shenzhen 
     - 2025 INFORMS International Meeting (Invited Session), Singapore
     - 2025 INFORMS Applied Probability Conference, Atlanta, GA<sup>*</sup>
-* Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions
+* <strong>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</strong>
     - 13th POMS-HK International Conference (Session Chair), Hong Kong
