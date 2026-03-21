@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-(<sup>*</sup> Presented by co-authors)
+(* Presented by co-authors)
 
 * <strong>Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
     - The Economics and Business of Artificial Intelligence, Hong Kong<sup>*</sup>
