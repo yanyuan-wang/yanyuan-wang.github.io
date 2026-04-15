@@ -10,8 +10,6 @@ author_profile: true
 {% include base_path %}
 
 
-(* Presented by co-authors)
-
 * <strong>Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
     - The Economics and Business of Artificial Intelligence, Hong Kong<sup>*</sup>
     - Mostly OM 2026 Workshop, Beijing<sup>*</sup>
@@ -22,3 +20,6 @@ Contextual Decision-making</strong>
     - 2025 INFORMS Applied Probability Conference, Atlanta, GA<sup>*</sup>
 * <strong>Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions</strong>
     - 13th POMS-HK International Conference (Session Chair), Hong Kong
+
+
+(*presented by co-authors)
