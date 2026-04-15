@@ -11,7 +11,7 @@ author_profile: true
 
 
 * <strong>Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
-    - The Economics and Business of Artificial Intelligence, Hong Kong<sup>*</sup>
+    - 9th Workshop on Simulation Methods and Applications, Tianjin<sup>*</sup>
     - Mostly OM 2026 Workshop, Beijing<sup>*</sup>
 * <strong>"Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for
 Contextual Decision-making</strong>
