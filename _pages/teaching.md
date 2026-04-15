@@ -12,10 +12,10 @@ author_profile: true
 
 Teaching Interests
 ====
-* Stochastic Optimization
-* Reinforcement Learning
-* Machine Learning
 * Generative AI and LLM
+* Reinforcement Learning
+* Stochastic Optimization
+* Machine Learning
 * Simulation and Stochastic Models
 
 <br>
