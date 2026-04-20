@@ -23,4 +23,5 @@ Feel free to contact me at
   <a href="mailto:yanyuan.wang@connect.ust.hk">yanyuan.wang@connect.ust.hk</a>.
 </p>
 
+I am on the academic job market!
 </div>
