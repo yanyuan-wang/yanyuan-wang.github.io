@@ -23,12 +23,7 @@ Research Assistant
 ======
 * University of Hong Kong, Summer 2020
   - Advisor: Prof. Xiaowei Zhang
-  - Topic: Agent-based Modeling for Collective Turnover
-* Shanghai University, 2017-2019
-  - Advisor: Prof. Maoguo Wu
-  - Topic 1: Stock Index Risk Modeling via GARCH-VaR
-  - Topic 2: Factors Influencing Life Insurance Firm Performance
-
+  - Topic: Agent-based Modeling & Simulation
 
 <br>
 

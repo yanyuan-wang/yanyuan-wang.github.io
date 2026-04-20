@@ -10,7 +10,6 @@ author_profile: true
 {% include base_path %}
 
 - RedBird Academic Excellence Award, Hong Kong University of Science and Technology (2025)
-- FBE PhD Entrance Scholarship, University of Hong Kong (2020)
 - Dean's Honours List, University of Hong Kong (2020)
 - MScBA Merit-based Scholarship, University of Hong Kong (2020)
 - Outstanding Graduate, Shanghai University (2019)
