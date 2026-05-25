@@ -11,11 +11,11 @@ author_profile: true
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
-I am currently a final-year PhD student in <strong>Operations Research</strong> in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by <a href="https://xiaoweiz.github.io/" target="_blank">Professor Xiaowei Zhang</a>. 
+I am currently a final-year PhD student in Operations Research in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by <a href="https://xiaoweiz.github.io/" target="_blank">Professor Xiaowei Zhang</a>. 
 </p>
 
 <p style="margin-bottom: 1.5em;">
-My research lies at the intersection of <strong>AI</strong> and <strong>OR</strong> to advance data-driven decision-making. By integrating <strong>LLMs</strong>, <strong>GenAI</strong> and <strong>ML</strong> with tools from <strong>stochastic simulation</strong>, <strong>optimization</strong> and <strong>statistics</strong>, I develop methodologies and algorithms that are both theoretically grounded and practically relevant. My works are inspired by applications in service operations, including mechanism design, supply chain management, and financial risk management.
+My research lies at the intersection of AI and OR to advance data-driven decision-making. By integrating LLMs, GenAI and ML with tools from stochastic simulation, optimization and statistics, I develop methodologies and algorithms that are both theoretically grounded and practically relevant. My works are inspired by applications in service operations, including mechanism design, supply chain management, and financial risk management.
 </p>
 
 <p style="margin-bottom: 1.5em;">
