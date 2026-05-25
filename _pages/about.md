@@ -15,8 +15,7 @@ I am currently a final-year PhD student in Operations Research in the Department
 </p>
 
 <p style="margin-bottom: 1.5em;">
-My research lies at the intersection of artificial intelligence (AI) and operations research (OR), aimed at advancing data-driven decision-making. By combining large language models (LLMs), generative AI, and machine learning (ML) with foundational tools from stochastic simulation, optimization, and statistics, I develop methodologies and algorithms that are both theoretically rigorous and practically impactful. Motivated by applications in service operations, particularly in domains such as mechanism design, supply chain, and finance, my work integrates learning and optimization in a holistic way to improve decision-making under uncertainty in complex systems.
-
+I study how artificial intelligence (AI) and operations research (OR) can be combined to advance data-driven decision-making. My work draws on large language models (LLMs), generative AI, and machine learning (ML), together with foundational tools from stochastic simulation, optimization, and statistics, to develop methods that are both theoretically grounded and practically impactful. Inspired by applications in service operations---including mechanism design, supply chains, and finance---I aim to unify learning and optimization to improve decision-making under uncertainty in complex systems.
 
 </p>
 
