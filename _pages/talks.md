@@ -11,6 +11,7 @@ author_profile: true
 
 
 * <strong>Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
+    - 2026 INFORMS Annual Meeting, San Francisco (Scheduled)
     - The 9th Workshop on Simulation Methods and Applications, Tianjin<sup>*</sup>
     - Mostly OM 2026 Workshop, Beijing<sup>*</sup>
 * <strong>"Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for
