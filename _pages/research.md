@@ -25,7 +25,7 @@ Topic I: LLM-powered Multi-agent Simulation & Optimization
 
 
 <figure style="text-align:center; margin: 1em 0;">
-  <img src="../_figures/Bridge.png" style="max-width:80%; height:auto;">
+  <img src="_figures/Bridge.png" style="max-width:80%; height:auto;">
 </figure>
 
 
