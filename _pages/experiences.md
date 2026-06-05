@@ -33,5 +33,5 @@ Research Assistant
 
 K12 Education
 ======
-* Instructor: JA Economy, 2018 Fall
-* Committee Member: JA Student Volunteer Program, 2018-2019
+* Instructor: JA Economy (2018 Fall)
+* Committee Member: JA Student Volunteer Program (2018-2019)
