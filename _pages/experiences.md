@@ -27,8 +27,12 @@ Education
 
 Research Assistant
 ======
-* HKU (2020 Summer)
-  - Research Topic: Agent-based Modeling and Simulation
+* RA, HKU (2020 Summer)
+  - Research Topic: Agent-based Modeling and Simulation (Advisor: Prof. Xiaowei Zhang)
+* RA, SHU (2017-2019)
+  - Research Topic I: Supply Chain Management
+  - Research Topic II: Supply 
+  - Research Topic III: Supply 
 
 <br>
 
