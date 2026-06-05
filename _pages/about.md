@@ -11,11 +11,11 @@ author_profile: true
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
-I am a final-year Ph.D. student in Operations Research in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Department of Industrial Engineering and Decision Analytics (IEDA)</a> at HKUST, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
+I am a final-year Ph.D. candidate in Operations Research (OR) in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Department of Industrial Engineering and Decision Analytics (IEDA)</a> at HKUST, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
 </p>
 
 <p style="margin-bottom: 1.5em;">
-I work at the intersection of AI and Operations Research OR. 
+I work at the intersection of AI and OR. 
 I'm fascinated by the ways cutting-edge technologies and state-of-the-art models can be applied to advance simulation and optimization.
 By drawing on foundations from simulation, optimization and statistics, 
 I develope methodologies and algorithms for data-riven decision-making.
