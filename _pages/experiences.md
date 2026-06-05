@@ -12,18 +12,22 @@ author_profile: true
 
 Education
 ======
-* Ph.D. in Operations Research, Hong Kong University of Science and Technology, 2026 (expected) (GPA: 4.12/4.30)
-* Ph.D. Candidate in Operations Research, University of Hong Kong, 2023 (GPA: 4.00/4.00)
-* M.S. in Business Analytics, University of Hong Kong, 2020 (GPA: 4.21/4.30, with Distinction) 
-* B.B.A. in Business Administration, Shanghai University, 2019 (GPA: 3.84/4.00, Top 0.5%)
+* Ph.D. in Operations Research, HKUST, 2026 (expected) 
+  - Thesis Topic: AI for Stochastic Simulation and Optimization in Data-driven Decision-making
+  - GPA: 4.12/4.30
+* Ph.D. Candidate in Operations Research, HKU, 2023 
+  - GPA: 4.00/4.00
+* M.S. in Business Analytics, HKU, 2020
+  - GPA: 4.21/4.30 (Distinction)
+* B.B.A. in Business Administration, SHU, 2019
+  - GPA: 3.84/4.00 (Top 0.5%)
 
 <br>
 
 Research Assistant
 ======
-* University of Hong Kong, Summer 2020
-  - Advisor: Prof. Xiaowei Zhang
-  - Topic: Agent-based Modeling & Simulation
+* HKU, Summer 2020
+  - Research Topic: agent-based Modeling and Simulation
 
 <br>
 
