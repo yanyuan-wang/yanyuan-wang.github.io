@@ -11,11 +11,11 @@ author_profile: true
 
 - RedBird Academic Excellence Award, Hong Kong University of Science and Technology (2026)
 - RedBird Academic Excellence Award, Hong Kong University of Science and Technology (2025)
-- Dean's Honours List, University of Hong Kong (2020)
+- Dean's Honors List, University of Hong Kong (2020)
 - MScBA Merit-based Scholarship, University of Hong Kong (2020)
 - Outstanding Graduate, Shanghai University (2019)
 - Outstanding Dissertation Award, Shanghai University (2019)
-- Meritorious Winner in Interdisciplinary Contest in Modeling (ICM) (2018)
+- Meritorious Winner in Interdisciplinary Contest in Modeling (2018)
 - Shanghai Government Scholarship (2017)
 - Outstanding Student, Shanghai University (2016-2017)
 - Special Scholarship, Shanghai University (2016-2017)
