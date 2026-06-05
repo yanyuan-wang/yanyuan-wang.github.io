@@ -23,9 +23,8 @@ My goal is to design intelligent systems that combine theoretical rigor with pra
 Much of my work is inspired by real-world challenges in service operations, 
 including supply chain management, mechanism design, and financial risk management.
 </p>
-
 <p style="margin-bottom: 1.5em;">
-I'm happy to discuss related topics and open to any potential collaborations. Feel free to reach out!
+I'm happy to discuss related topics and open to potential collaborations. Feel free to
   <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>.
 </p> 
 
