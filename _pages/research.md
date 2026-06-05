@@ -18,7 +18,7 @@ Research Interests
 
 <br>
 
-Topic I: LLM-powered Multi-agent Simulation & Optimization (LLM-MAS&O)
+Topic I: LLM-powered Multi-agent Simulation & Optimizing
 ======
 * Yanyuan Wang and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review at Management Science*</a>.
 
