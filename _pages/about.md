@@ -15,8 +15,8 @@ I am a final-year Ph.D. student in Operations Research in <a href="https://ieda.
 </p>
 
 <p style="margin-bottom: 1.5em;">
-I work at the intersection of Artificial Intelligence (AI) and Operations Research (OR), 
-exploring how AI can be applied to advance simulation and optimization.
+I work at the intersection of AI and Operations Research OR. 
+I'm fascinated by the ways cutting-edge technologies and state-of-the-art models can be applied to advance simulation and optimization.
 By drawing on foundations from simulation, optimization and statistics, 
 I develope methodologies and algorithms for data-riven decision-making.
 My goal is to design intelligent systems that combine theoretical rigor with practical effectiveness. 
@@ -24,8 +24,8 @@ Much of my work is inspired by real-world challenges in service operations,
 including supply chain management, mechanism design, and financial risk management.
 </p>
 <p style="margin-bottom: 1.5em;">
-I'm happy to discuss related topics and open to potential collaborations. Feel free to
-  <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>.
+I'm always happy to discuss related topics and open to potential collaborations. Feel free to
+  <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>!
 </p> 
 
 I am on the academic job market.
