@@ -23,8 +23,8 @@ Topic I: LLM-powered Multi-agent Simulation & Optimization
 
 * **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
 
-<figure style="text-align:center; margin: 1em 0;">
-  <img src="_figures/Bridge.png" style="max-width:80%; height:auto;">
+<figure style="display: flex; justify-content: center; margin: 1em 0;">
+  <img src="_figures/Bridge.png" alt="Bridge illustration" style="max-width: 80%; height: auto;">
 </figure>
 
 
