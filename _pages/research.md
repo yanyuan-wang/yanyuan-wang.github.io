@@ -22,7 +22,7 @@ Topic I: LLMs for Simulation and Optimization
 ======
 * Yanyuan Wang and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review at Management Science*</a>.
 
-Some thoughts on future directions (Work in Progress, and welcome any discussion)
+Some thoughts on future directions
 * Potential
 
 
