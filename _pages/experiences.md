@@ -30,9 +30,9 @@ Research Assistant
 * RA, HKU (2020 Summer)
   - Research Topic: Agent-based Modeling and Simulation (Advisor: Prof. Xiaowei Zhang)
 * RA, SHU (2017-2019)
-  - Research Topic I: Supply Chain Management
-  - Research Topic II: Supply 
-  - Research Topic III: Supply 
+  - Research Topic I: Simulation and Optimization of FMCG Supply Chains (Advisor: Prof. Junjun Gao)
+  - Research Topic II: Corporate Finance (Advisor: Prof. Maoguo Wu)
+  - Research Topic III: Risk Analysis for Stock Index (Advisor: Prof. Maoguo Wu)
 
 <br>
 
