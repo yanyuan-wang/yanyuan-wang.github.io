@@ -24,8 +24,7 @@ Topic I: LLM-powered Multi-agent Simulation & Optimizing
 
 
 <figure style="text-align:center; margin: 1em 0;">
-  <img src="_figures/Bridge.png" alt="Conceptual Framework" style="max-width:80%; height:auto;">
-  <figcaption>Conceptual Framework</figcaption>
+  <img src="/_figures/Bridge.png_" style="max-width:80%; height:auto;">
 </figure>
 
 
