@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-*If you want to learn something, teach it! (R. Feynman)*
+*If you want to learn something, teach it! ---R. Feynman*
 
 Teaching Interests
 ====
