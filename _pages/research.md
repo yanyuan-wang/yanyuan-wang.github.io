@@ -39,7 +39,7 @@ Some thoughts on future research directions.
 
 Topic II: ML/GenAI for Optimization
 ======
-<img src="/images/overopt.pdf">
+<img src="/images/overopt.png">
 
 * **Yanyuan Wang** and Xiaowei Zhang (2026). "Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making. <a href="https://arxiv.org/abs/2503.12747" target="_blank">*Major Revision at Manufacturing & Service Operations Management*</a>.
 
