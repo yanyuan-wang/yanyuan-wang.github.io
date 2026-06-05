@@ -25,7 +25,7 @@ Education
 
 <br>
 
-Research Assistant
+Research Projects
 ======
 * RA, HKU (2020 Summer)
   - Research Topic: Agent-based Modeling and Simulation (Advisor: Prof. Xiaowei Zhang)
