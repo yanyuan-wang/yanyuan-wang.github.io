@@ -19,14 +19,16 @@ Research Interests
 <br>
 
 Topic I: LLM-powered Multi-agent Simulation & Optimizing
+
+
 ======
 * Yanyuan Wang and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review at Management Science*</a>.
 
 Some thoughts on future research directions.
-* Effectiveness: system-level calibration methods (work in progress)
-* Efficiency: scalable, high-dimensional algorithms for optimization (work in progress)
-* Robustness: uncertainty in agent configurations
-* Applicability: domain-specific applications
+* **Reliability:**s system-level calibration methods (work in progress)
+* **Efficiency:** scalable, high-dimensional algorithms for optimization (work in progress)
+* **Robustness:** uncertainty in agent configurations
+* **Applicability:** domain-specific applications
     - Strategic queueing systems
     - Mechanism design in dynamic markets
     - ...
