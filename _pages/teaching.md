@@ -9,14 +9,16 @@ author_profile: true
 
 {% include base_path %}
 
+*If you want to learn something, teach it! (R. Feynman)*
 
 Teaching Interests
 ====
-* LLMs & AI for Simulation and Optimization
-* Reinforcement Learning
-* Stochastic Optimization
-* Machine Learning
-* Simulation and Stochastic Models
+* Agentic AI for OM
+* GenAI/LLMs for OR
+* AI Simulation in Business Analytics
+* AI-driven Sequential Decision Making
+(... and more in AI + Simulation/Otimization)
+
 
 <br>
 
