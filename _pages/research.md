@@ -24,7 +24,6 @@ Topic I: LLM-powered Multi-agent Simulation & Optimization
 
 <img src="/images/bridge.png">
 
-<br/><img src='/images/500x300.png'>"
 
 Some thoughts on future research directions.
 * **Reliability:** system-level calibration methods (work in progress)
