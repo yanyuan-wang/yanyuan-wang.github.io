@@ -17,13 +17,16 @@ I am a final-year Ph.D. student in Operations Research in the Department of Indu
 <p style="margin-bottom: 1.5em;">
 
 I work at the intersection of Artificial Intelligence (AI) and Operations Research (OR).
-My research focuses on developing methodologies and algorithms to advance data-riven decision-making, drawing on foundations from simulation, optimization and statistics. The goal is to deliver intelligent decisions that are both theoretically rigorous and practically effective.
-Much of my work is motivated by real-world challenges in service operations, including supply chain management, mechanism design, and financial risk management.
+My research focuses on developing methodologies and algorithms to advance data-riven decision-making, 
+drawing on foundations from simulation, optimization and statistics. 
+
+The goal is to develop intelligent decision systems that unite theoretical rigor with operational effectiveness. 
+Much of my work is motivated by real-world challenges in service operations, 
+including supply chain management, mechanism design, and financial risk management.
 </p>
 
 <p style="margin-bottom: 1.5em;">
-
-I'm happy to discuss related topics and open to potential collaborations! Feel free to
+I'm happy to discuss related topics and open to potential collaborations. Feel free to reach out!
   <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>.
 </p> 
 
