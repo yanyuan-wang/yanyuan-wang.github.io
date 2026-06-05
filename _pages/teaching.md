@@ -11,6 +11,8 @@ author_profile: true
 
 *If you want to learn something, teach it! ---R. Feynman*
 
+<br>
+
 Teaching Interests
 ====
 * Agentic AI for OM
@@ -18,7 +20,6 @@ Teaching Interests
 * AI Simulation in Business Analytics
 * AI-driven Sequential Decision Making
 (... and more in AI + Simulation/Otimization)
-
 
 <br>
 
