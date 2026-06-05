@@ -19,6 +19,10 @@ Research Interests
 <br>
 
 Topic I: LLM-powered Multi-agent Simulation & Optimizing
+<figure style="text-align:center; margin: 1em 0;">
+  <img src="figures/Bridge.png" alt="Conceptual Framework" style="max-width:80%; height:auto;">
+  <figcaption>Conceptual Framework</figcaption>
+</figure>
 
 
 ======
