@@ -16,17 +16,19 @@ I am a final-year Ph.D. candidate in Operations Research (OR) in <a href="https:
 
 <p style="margin-bottom: 1.5em;">
 I work at the intersection of AI and OR. 
-I'm fascinated by the ways cutting-edge technologies and state-of-the-art models can be applied to advance simulation and optimization.
+I'm fascinated by the ways cutting-edge technologies and state-of-the-art models can be applied to advance OR problems.
 By drawing on foundations from simulation, optimization and statistics, 
 I develope methodologies and algorithms for data-riven decision-making.
 My goal is to design intelligent systems that combine theoretical rigor with practical effectiveness. 
 Much of my work is inspired by real-world challenges in service operations, 
 including supply chain management, mechanism design, and financial risk management.
 </p>
+
 <p style="margin-bottom: 1.5em;">
-I'm always happy to discuss related topics and open to potential collaborations. Feel free to
-  <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>!
+I'm happy to discuss related topics and open to potential collaborations. 
 </p> 
 
-I am on the academic job market.
+<p style="margin-bottom: 1.5em;">
+Feel free to
+  <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>! I am on the academic job market.
 </div>
