@@ -17,6 +17,7 @@ Education
   - GPA: 4.12/4.30
 * Ph.D. Candidate in Operations Research, HKU (2020-2023)
   - GPA: 4.00/4.00
+  - Transferred to HKUST
 * M.S. in Business Analytics, HKU (2019-2020)
   - GPA: 4.21/4.30 (Distinction)
 * B.B.A. in Business Administration, SHU (2015-2019)
