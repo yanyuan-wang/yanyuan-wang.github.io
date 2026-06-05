@@ -17,7 +17,7 @@ I am a final-year Ph.D. student in Operations Research in the Department of Indu
 <p style="margin-bottom: 1.5em;">
 
 I work at the intersection of Artificial Intelligence (AI) and Operations Research (OR).
-My research focuses on developing methodologies and algorithms that advance data-riven decision-making in the era of AI, grounded in the principles of simulation, optimization and statistics. The overarching goal of my work is to design intelligent systems that are both theoretically rigorous and practically effective, capable of learning from data, deciding under uncertainty and adapting to dynamic environments.
+My research focuses on developing methodologies and algorithms to advance data-riven decision-making, drawing on foundations from simulation, optimization and statistics. The goal is to design intelligent systems that are both theoretically rigorous and practically effective, capable of learning from data, deciding under uncertainty and adapting to dynamic environments.
 Much of my work is motivated by real-world challenges in service operations, including supply chain management, mechanism design, and financial risk management.
 </p>
 
