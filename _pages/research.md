@@ -29,7 +29,7 @@ Topic I: LLM-powered Multi-agent Simulation & Optimization
 
 
 Some thoughts on future research directions.
-* **Reliability:**s system-level calibration methods (work in progress)
+* **Reliability:** system-level calibration methods (work in progress)
 * **Efficiency:** scalable, high-dimensional algorithms for optimization (work in progress)
 * **Robustness:** uncertainty in agent configurations
 * **Applicability:** domain-specific applications
