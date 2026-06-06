@@ -49,4 +49,6 @@ Topic II: ML/GenAI for Optimization
 
 Topic III: ML for Simulation
 ======
+<img src="/images/nskrr.png">
+
 * Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions. <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.00204" target="_blank">*Management Science*</a>.
