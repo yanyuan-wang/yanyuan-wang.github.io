@@ -27,7 +27,7 @@ Education
 
 Research Projects
 ======
-* RA, HKU (2020 Summer)
+* RA, HKU (Summer 2020)
   - Research Topic: Agent-based Modeling and Simulation (Advisor: Prof. Xiaowei Zhang)
 * RA, SHU (2017-2019)
   - Research Topic I: Simulation and Optimization of FMCG Supply Chains (Advisor: Prof. Junjun Gao)
@@ -38,5 +38,5 @@ Research Projects
 
 K12 Education
 ======
-* Instructor: JA Economy (2018 Fall)
+* Instructor: JA Economy (Fall 2018)
 * Committee Member: JA Student Volunteer Program (2018-2019)
