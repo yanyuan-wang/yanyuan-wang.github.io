@@ -23,4 +23,4 @@ Contextual Decision-making</strong>
     - The 13th POMS-HK International Conference (Session Chair), Hong Kong
 
 
-(*presented by co-authors)
+*presented by co-authors
