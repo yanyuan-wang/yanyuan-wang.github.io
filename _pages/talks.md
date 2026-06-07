@@ -15,8 +15,7 @@ author_profile: true
     - The 9th Workshop on Simulation Methods and Applications, Tianjin<sup>*</sup>
     - Mostly OM 2026 Workshop, Beijing<sup>*</sup>
     - The Economics and Business of Artificial Intelligence Workshop, HKUST<sup>*</sup>
-* <strong>"Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for
-Contextual Decision-making</strong>
+* <strong>"Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making</strong>
     - The 16th POMS-HK International Conference (Invited Session), Shenzhen 
     - 2025 INFORMS International Meeting (Invited Session), Singapore
     - 2025 INFORMS Applied Probability Conference, Atlanta, GA<sup>*</sup>
