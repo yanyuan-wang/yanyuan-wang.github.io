@@ -33,7 +33,7 @@ Some thoughts on future research directions.
     - Mechanism design in dynamic markets
     - ...
 
-*I would be happy to discuss them in more detail with interested collaborators.*
+*Happy to discuss further with interested collaborators!*
 
 <br>
 
