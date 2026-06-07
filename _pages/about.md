@@ -16,7 +16,7 @@ I am a final-year Ph.D. candidate in Operations Research (OR) in <a href="https:
 
 <p style="margin-bottom: 1.5em;">
 I work at the intersection of AI and OR. 
-I'm fascinated by the ways cutting-edge technologies and state-of-the-art models can be applied to tackle OR problems.
+I'm fascinated by the ways cutting-edge technologies and state-of-the-art models can be leveraged to tackle challenges in OR.
 Drawing on foundations from simulation, optimization and statistics, 
 I develop methodologies and algorithms to advance data-driven decision-making.
 My goal is to design intelligent systems that combine theoretical rigor with practical effectiveness. 
