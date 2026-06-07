@@ -25,7 +25,7 @@ Teaching Interests
 
 Teaching Assistant
 ====
-* *IEDA4520 Numerical Methods for Financial Engineering* (UG): Fall 2023, Fall 2024
 * *IEDA4000B Decision Making with Machine Learning* (UG): Spring 2024, Spring 2025
+* *IEDA4520 Numerical Methods for Financial Engineering* (UG): Fall 2023, Fall 2024
 * *MSBA7021 Prescriptive Analytics* (PG): Fall 2020, Fall 2021, Fall 2022
 
