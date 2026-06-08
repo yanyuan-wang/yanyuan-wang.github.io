@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-Journal Reviewer
+Reviewer
 ======
 * Operations Research
 * Naval Research Logistics
