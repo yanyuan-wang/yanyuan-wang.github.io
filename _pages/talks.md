@@ -23,4 +23,4 @@ author_profile: true
     - The 13th POMS-HK International Conference (Session Chair), Hong Kong
 
 
-*Presented by co-authors
+*Presented by coauthor
