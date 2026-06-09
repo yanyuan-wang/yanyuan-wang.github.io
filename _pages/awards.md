@@ -12,7 +12,7 @@ author_profile: true
 - RedBird Academic Excellence Award (Highest Honor), HKUST (2026)
 - RedBird Academic Excellence Award (Highest Honor), HKUST (2025)
 - Dean's Honors List, HKU (2020)
-- MScBA Scholarship (Merit-based), HKU (2020)
+- MScBA Scholarship (Top 5%), HKU (2020)
 - Outstanding Graduate, SHU (2019)
 - Outstanding Thesis, SHU (2019)
 - Meritorious Winner in Interdisciplinary Contest in Modeling, COMAP (2018)
