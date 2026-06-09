@@ -37,5 +37,5 @@ Research Projects
 
 K12 Education
 ======
-* Instructor: JA Economy (Fall 2018)
-* Committee Member: JA Student Volunteer Program (2018-2019)
+* Instructor: JA Economy (Fall 2017)
+* Committee Member: JA Student Volunteer Program (2018)
