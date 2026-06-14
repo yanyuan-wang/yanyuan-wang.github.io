@@ -13,7 +13,7 @@ author_profile: true
 Education
 ======
 * Ph.D. in Operations Research, HKUST (2023-2026, expected) 
-  - Thesis Topic: AI for Stochastic Simulation and Optimization in Data-driven Decision-making
+  - Thesis: AI for Stochastic Simulation and Optimization in Data-driven Decision-making
   - GPA: 4.12/4.30
 * Ph.D. Candidate in Operations Research, HKU (2020-2023) &rarr; HKUST
   - GPA: 4.00/4.00
@@ -23,6 +23,7 @@ Education
   - GPA: 3.84/4.00 (Top 0.5%)
 
 <br>
+
 
 Research Projects
 ======
