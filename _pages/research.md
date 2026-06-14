@@ -11,26 +11,24 @@ author_profile: true
 
 Research Interests: 
 ======
-* GenAI/LLMs for Simulation and Optimization
+* AI/LLMs for Simulation and Optimization
 * Stochastic Optimization
 * Reinforcement Learning
 * Service Operations
 
 <br>
 
-Topic I: LLMs for Simulation and Optimization 
+Direction I: LLMs &times; Simulation + Optimization
 ======
-
-Focused on computational and statistical aspects of data-driven decision-making.  
 
 * **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
 
+This work addresses service system design task, using LLMs to incorporate realistic human behavioral patterns into decision-making process.
+
+
 <img src="/images/bridge.png">
 
-Thoughts on Future Directions in **LLM-MAS&O**
-
-(**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
-
+My thoughts on future directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
 - **Reliability:** ensuring behaviorally aligned system *(work in progress)*  
 - **Efficiency:** achieving speedups for large-scale system *(work in progress)*  
 - **Robustness:** addressing uncertainty in system configurations *(work in progress)*  
@@ -45,27 +43,33 @@ Thoughts on Future Directions in **LLM-MAS&O**
 
 <br>
 
-Topic II: ML/GenAI for Data-driven Decision-making
+Direction II: ML/GenAI &times; Optimization
 ======
 
-Focused on statistical and computational efficiency in contextual decision-making.
 
 * **Yanyuan Wang** and Xiaowei Zhang (2026). "Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making. <a href="https://arxiv.org/abs/2503.12747" target="_blank">*Major Revision at Manufacturing & Service Operations Management*</a>.
 
 <img src="/images/overopt.png">
 
-This work uncovers a counterintuitive phenomenon via theoretical analysis. 
-It answers the question *"When does more data stop helping?"*---studying whether additional samples invariably lead to better outcomes when uncertainty quantification is the target.
+
+This work studies statistical validity and computational efficiency in quantifying uncertainty for context-aware decision-making. 
+It uncovers a counterintuitive phenomenon that answers the question *"When does more data stop helping?"*
+---exploring whether more samples invariably lead to better outcomes.
+
+
 
 <br>
 
-
-Topic III: ML for Uncertainty Quantification 
+Direction III: ML &times; Simulation
 ======
-
-
-Focused on high-dimensional stochstic system.
 
 <img src="/images/nskrr.png">
 
 * Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions. <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.00204" target="_blank">*Management Science*</a>.
+
+This work focuses on achieving sample efficiency in high-dimensional uncertainty quantification, 
+specifically on understanding how input uncertainty propagates through the behavior of stochastic systems.
+- Portfolio risk management: estimate risk measures for complex portfolio
+- Queueing, service systems: estimate performance metrics (e.g., waiting times, service levels) under uncertain inputs (e.g., arrival rates, service distributions)
+- Stochastic control: evaluate optimal policies based on estimated expectations (e.g., newsvendor with multinomial logit model)
+- Engineering design: assess system reliability with unknwon parameters (e.g., material properties)
