@@ -31,4 +31,4 @@ I'm happy to discuss related topics and open to potential collaborations.
 
 <p style="margin-bottom: 1.5em;">
 Feel free to
-  <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>! I am on the academic job market.
+  <a href="mailto:yanyuan.wang@connect.ust.hk">reach out</a>! I am on the 2026-2027 academic job market.
