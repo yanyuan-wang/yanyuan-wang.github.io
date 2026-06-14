@@ -21,7 +21,7 @@ Research Interests:
 Topic I: LLMs for Simulation and Optimization 
 ======
 
-Focused on the computational and statistical aspects of data-driven decision-making.  
+Focused on computational and statistical aspects of data-driven decision-making.  
 
 * **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
 
@@ -31,23 +31,24 @@ Thoughts on Future Directions in **LLM-MAS&O**
 
 (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
 
-- **Reliability:** developing behaviorally aligned systems *(work in progress)*  
-- **Efficiency:** designing scalable algorithms for high-dimensional settings *(work in progress)*  
-- **Robustness:** handling uncertainty in system configurations  
+- **Reliability:** ensuring behaviorally aligned system *(work in progress)*  
+- **Efficiency:** achieving speedups for large-scale system *(work in progress)*  
+- **Robustness:** addressing uncertainty in system configurations *(work in progress)*  
 - **Applicability:** enabling domain-specific applications  
-  - Strategic queueing systems  
-  - Mechanism design in dynamic markets  
-  - ...
+  - strategic queues  
+  - online marketplaces (e.g., gig-economy platforms)
+  - blockchain auctions
+  - cloud computing
+  - *(... other mechanism design in dynamic markets)*
 
 **Happy to discuss further with interested collaborators!**
 
-
 <br>
 
-Topic II: ML/GenAI for Decision-making
+Topic II: ML/GenAI for Data-driven Decision-making
 ======
 
-Focused on statistical and computational efficiency in data-driven decision-making.
+Focused on statistical and computational efficiency in contextual decision-making.
 
 * **Yanyuan Wang** and Xiaowei Zhang (2026). "Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making. <a href="https://arxiv.org/abs/2503.12747" target="_blank">*Major Revision at Manufacturing & Service Operations Management*</a>.
 
@@ -59,11 +60,11 @@ It answers the question *"When does more data stop helping?"*---studying whether
 <br>
 
 
-Topic III: ML for Uncertainty Quantification in Stochastic System
+Topic III: ML for Uncertainty Quantification 
 ======
 
 
-Focused on uncertainty and computationally efficient data-driven decision-making.
+Focused on high-dimensional stochstic system.
 
 <img src="/images/nskrr.png">
 
