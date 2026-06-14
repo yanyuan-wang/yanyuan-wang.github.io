@@ -34,7 +34,6 @@ This study integrates high-fidelity LLMs into the task of service system design 
 
 
 My Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
-
 - **Reliability:** ensure behaviorally aligned systems *(work in progress)*  
 - **Efficiency:** achieve computational speedups for large-scale systems *(work in progress)*  
 - **Robustness:** address uncertainty in system configurations *(work in progress)*  
@@ -69,7 +68,6 @@ Direction II: ML/GenAI &times; Optimization
 This work studies the statistical-computational tradeoff in quantifying uncertainty for context-aware decision-making. 
 It uncovers a counterintuitive phenomenon that answers the question *"When does more data stop helping?"*
 ---exploring whether more samples invariably lead to better outcomes.
-- Bike-sharing platform
 
 <br>
 <br>
@@ -89,6 +87,6 @@ This work develops sample-efficient methods for high-dimensional uncertainty qua
 with a particular focus on understanding how input uncertainty propagates through the behavior of stochastic systems.
 By a change of viewpoint, the estimation of risk functional of conditional expectation is converted into a ML task.
 - Portfolio risk management: estimate risk measures for complex portfolio
-- Healthcare system: estimate performance metrics (e.g., waiting times, service levels) under uncertain inputs (e.g., arrival rates, service distributions)
-- Stochastic control: evaluate policies based on estimated expectations (e.g., newsvendor's optimal profit with MNL model)
+- Healthcare system: estimate performance metrics (e.g., patient waiting times) under uncertain inputs (e.g., service rates)
+- Stochastic control: evaluate policies based on estimated expectations (e.g., newsvendor's profit with MNL model)
 - Engineering design: assess system reliability with unknown parameters (e.g., material properties)
