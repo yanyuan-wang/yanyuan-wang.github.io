@@ -16,13 +16,13 @@ I am a Ph.D. candidate in Operations Research (OR) in <a href="https://ieda.ust.
 
 
 <p style="margin-bottom: 1.5em;">
-My research lies at the intersection of artificial intelligence (AI) and operations research (OR).
+My research lies at the intersection of AI and OR.
 I'm fascinated by how advanced technologies and state-of-the-art models can be leveraged to tackle challenges in operations research. 
 Drawing on generative models and machine learning, 
 I develop methodologies and frameworks for solving data-driven decision-making problems,
 grounded in optimization and statistical foundations. 
 My goal is to design principled, intelligent systems that bridge theoretical rigor with practical impact, 
-emphasizing the interplay among computational resources, algorithms and data.
+emphasizing the interplay among computational power, algorithms and data.
 Much of my work is inspired by real-world applications in service operations, 
 particularly supply chain, mechanism design and finance.
 </p>
