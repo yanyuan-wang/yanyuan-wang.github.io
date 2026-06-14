@@ -31,8 +31,7 @@ Direction I: LLMs &times; Simulation + Optimization
 This study integrates high-fidelity LLMs into the task of service system design to capture behavioral realism. This novel framework serves as both an explorer and an evaluator of system design, mirroring a digital twin that bridges the gap between analytical models and real-world human behaviors.
 
 
-My Thoughts on Potential Directions in **LLM-MAS&O**  
-(**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
+My Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
 
 - **Reliability:** ensure behaviorally aligned systems *(work in progress)*  
 - **Efficiency:** achieve computational speedups for large-scale systems *(work in progress)*  
