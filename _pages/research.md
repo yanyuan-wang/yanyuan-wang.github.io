@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research Interests
+Research Interests: (AI for OR)
 ======
 * AI for Simulation and Optimization
 * Stochastic Optimization
@@ -18,14 +18,16 @@ Research Interests
 
 <br>
 
-Topic I: LLM-powered Multi-agent Simulation & Optimization
+Topic I: LLM-powered Multi-agent Simulation and Optimization (LLM-MAS&O)
 ======
 <img src="/images/bridge.png">
+
+Optimizing Service Operations via LLM-powered Multi-agent Simulation
 
 * **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
 
 Some thoughts on future research directions.
-* **Reliability:** system-level calibration methods (work in progress)
+* **Reliability:** aligned LLM agent system (work in progress)
 * **Efficiency:** scalable, high-dimensional algorithms for optimization (work in progress)
 * **Robustness:** uncertainty in agent configurations
 * **Applicability:** domain-specific applications
@@ -37,7 +39,7 @@ Some thoughts on future research directions.
 
 <br>
 
-Topic II: ML/GenAI for Optimization
+Topic II: ML/GenAI for Decision-making
 ======
 <img src="/images/overopt.png">
 
@@ -47,7 +49,7 @@ Topic II: ML/GenAI for Optimization
 <br>
 
 
-Topic III: ML for Simulation
+Topic III: ML for Uncertainty Quantification
 ======
 <img src="/images/nskrr.png">
 
