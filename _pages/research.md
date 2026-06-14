@@ -28,7 +28,8 @@ Direction I: LLMs &times; Simulation + Optimization
 
 <img src="/images/bridge.png">
 
-This work integrates LLMs into the task of service system design to capture behavioral realism. The proposed LLM-MAS framework serves as both an explorer and an evaluator of viable system design, mirroring a digital twin that bridges game-theoretic analysis with reality.
+This work integrates LLMs into the task of service system design to capture behavioral realism. 
+The proposed LLM-MAS framework serves as both an explorer and an evaluator of viable system design, mirroring a digital twin that bridges game-theoretic analysis with reality.
 
 
 <br>
@@ -66,7 +67,6 @@ Direction II: ML/GenAI &times; Optimization
 
 
 This work studies the statistical-computational tradeoff in quantifying uncertainty for context-aware decision-making. 
-
 It uncovers a counterintuitive phenomenon that answers the question *"When does more data stop helping?"*
 ---exploring whether more samples invariably lead to better outcomes.
 
@@ -86,6 +86,5 @@ Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation
 
 This work develops a sample-efficient method for high-dimensional uncertainty quantification.
 By a change of viewpoint, the estimation of risk functional of conditional expectation is converted into a ML task.
-
 Beyond portfolio risk management, it can also be applied to analyzing 
 how input uncertainty propagates through stochastic systems in domains such as healthcare operations, biopharmaceutical manufacturing, and power grid scheduling.
