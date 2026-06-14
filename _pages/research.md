@@ -87,6 +87,7 @@ This work develops a sample-efficient method for high-dimensional uncertainty qu
 By a change of viewpoint, the estimation of risk functional of conditional expectation is converted into a ML task.
 It can be applied to understanding how input uncertainty propagates through the behavior of stochastic systems.
 - Portfolio risk management: estimate risk measures for complex portfolio
-- Healthcare system: estimate performance metrics (e.g., patient waiting times) under uncertain inputs (e.g., service rates)
-- Stochastic control: evaluate policies based on estimated expectations (e.g., newsvendor's profit with MNL model)
-- Engineering design: assess system reliability with unknown parameters (e.g., material properties)
+- Health system: estimate patient waiting times with unknown service rates
+- Inventory control: evaluate newsvendor's profit with MNL demand model
+- Biopharmaceutical manufacturing/energy scheduling: assess system reliability with critical process parameters
+- ...
