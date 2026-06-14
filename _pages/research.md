@@ -29,6 +29,8 @@ Direction I: LLMs &times; Simulation + Optimization
 <img src="/images/bridge.png">
 
 This study integrates high-fidelity LLMs into the task of service system design to capture behavioral realism. This novel framework serves as both an explorer and an evaluator of system design, mirroring a digital twin that bridges the gap between analytical models and real-world human behaviors.
+- Sustainable supply chain
+- Innovation contest design
 
 
 My Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
@@ -67,7 +69,7 @@ Direction II: ML/GenAI &times; Optimization
 This work studies the statistical-computational tradeoff in quantifying uncertainty for context-aware decision-making. 
 It uncovers a counterintuitive phenomenon that answers the question *"When does more data stop helping?"*
 ---exploring whether more samples invariably lead to better outcomes.
-
+- Bike-sharing platform
 
 <br>
 <br>
