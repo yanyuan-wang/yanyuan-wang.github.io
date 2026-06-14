@@ -85,9 +85,5 @@ Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation
 
 This work develops a sample-efficient method for high-dimensional uncertainty quantification.
 By a change of viewpoint, the estimation of risk functional of conditional expectation is converted into a ML task.
-It can be applied to understanding how input uncertainty propagates through the behavior of stochastic systems.
-- Portfolio risk management: estimate risk measures for complex portfolio
-- Health system: estimate patient waiting times with unknown service rates
-- Inventory control: evaluate newsvendor's profit with MNL demand model
-- Biopharmaceutical manufacturing/energy scheduling: assess system reliability with critical process parameters
-- ...
+It can be applied to understanding how input uncertainty propagates through the behavior of stochastic systems, including
+portfolio risk management, healthcare service, inventory control, biopharmaceutical manufacturing, energy scheduling, etc.
