@@ -30,8 +30,10 @@ Research Projects
 * RA, HKU (Summer 2020)
   - Topic: Agent-based Modeling (Advisor: Prof. Xiaowei Zhang)
 * RA, SHU (2017-2019)
-  - Topic I: Simulation and Optimization of FMCG Supply Chains (Advisor: Prof. Junjun Gao)
-  - Topic II: Corporate Finance (Advisor: Prof. Maoguo Wu)
-  - Topic III: Risk Analysis for Stock Index (Advisor: Prof. Maoguo Wu)
+  - Topic I: Digitalized FMCG Supply Chains (Advisor: Prof. Junjun Gao)
+  - Topic II: Corporate Finance Commercial/Insurance Sectors (Advisor: Prof. Maoguo Wu)
+  - Topic III: Risk Analysis of Stock Market (Advisor: Prof. Maoguo Wu)
 
 <br>
+
+

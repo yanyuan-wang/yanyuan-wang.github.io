@@ -28,9 +28,6 @@ particularly supply chain, mechanism design and finance.
 </p>
 
 
-
-
-
 <p style="margin-bottom: 1.5em;">
 
 I'm happy to discuss related topics and open to potential collaborations. 

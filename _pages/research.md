@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research Interests: 
+Research Interests
 ======
 * AI/LLMs for Simulation and Optimization
 * Stochastic Optimization
@@ -85,5 +85,5 @@ Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation
 
 This work develops a sample-efficient method for high-dimensional uncertainty quantification.
 By a change of viewpoint, the estimation of risk functional of conditional expectation is converted into a ML task.
-It can be applied to understanding how input uncertainty propagates through the behavior of stochastic systems, including
-portfolio risk management, healthcare service, inventory control, biopharmaceutical manufacturing, energy scheduling, etc.
+Beyond portfolio risk management, it can also be applied to analyzing 
+how input uncertainty propagates through stochastic systems in domains such as healthcare operations, biopharmaceutical manufacturing, and power grid scheduling.
