@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
-I am a final-year Ph.D. candidate in Operations Research (OR) in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Department of Industrial Engineering and Decision Analytics (IEDA)</a> at HKUST, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
+I am a Ph.D. candidate in Operations Research (OR) in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Department of Industrial Engineering and Decision Analytics (IEDA)</a> at HKUST, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
 </p>
 
 
@@ -21,7 +21,7 @@ I'm fascinated by how advanced technologies and state-of-the-art models can be l
 Drawing on generative models and machine learning, 
 I develop methodologies and algorithms for effective data-driven decision-making, grounded in optimization and statistical foundations. 
 My goal is to design principled, intelligent systems that bridge theoretical rigor with practical impact.
-Much of my research is motivated by real-world problems in service operations, 
+Much of my research is motivated by real-world challenges in service operations, 
 spanning supply chain systems, mechanism design, and financial applications.
 </p>
 
