@@ -30,7 +30,7 @@ This study integrates high-fidelity LLMs into the task of service system design 
 
 <div style="border: 2px solid #4A90E2; border-radius: 8px; padding: 16px; background-color: #F8FAFC;">
 
-### 💭 My Thoughts on Potential Directions in **LLM‑MAS&O**  
+My Thoughts on Potential Directions in **LLM-MAS&O**  
 (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
 
 - **Reliability:** ensure behaviorally aligned systems *(work in progress)*  
@@ -45,7 +45,7 @@ This study integrates high-fidelity LLMs into the task of service system design 
 
 ---
 
-**💬 Happy to discuss further with interested collaborators!**
+**Happy to discuss further with interested collaborators!**
 
 </div>
 
