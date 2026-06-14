@@ -22,9 +22,9 @@ Drawing on generative models and machine learning,
 I develop methodologies and frameworks for solving data-driven decision-making problems,
 grounded in optimization and statistical foundations. 
 My goal is to design principled, intelligent systems that bridge theoretical rigor with practical impact, 
-with a focus on the interplay among computational resources, algorithms and data.
-Much of my work is motivated by real-world challenges in service operations, 
-spanning supply chain systems, mechanism design and financial applications.
+emphasizing the interplay among computational resources, algorithms and data.
+Much of my work is inspired by real-world applications in service operations, 
+particularly supply chain, mechanism design and finance.
 </p>
 
 
