@@ -34,8 +34,3 @@ Research Projects
   - Research Topic III: Risk Analysis for Stock Index (Advisor: Prof. Maoguo Wu)
 
 <br>
-
-K12 Education
-======
-* Instructor: JA Economy (Fall 2017)
-* Committee Member: JA Student Volunteer Program (2018)
