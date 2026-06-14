@@ -28,7 +28,7 @@ Direction I: LLMs &times; Simulation + Optimization
 
 <img src="/images/bridge.png">
 
-This work integrates high-fidelity LLMs into the task of service system design to capture behavioral realism. LLM-MAS serves as both an explorer and an evaluator of system design, mirroring a digital twin that bridges the gap between game-theoretic analysis and reality.
+This work integrates LLMs into the task of service system design to capture behavioral realism. The proposed LLM-MAS framework serves as both an explorer and an evaluator of viable system design, mirroring a digital twin that bridges game-theoretic analysis with reality.
 
 
 <br>
