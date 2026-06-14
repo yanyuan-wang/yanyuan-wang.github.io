@@ -25,7 +25,7 @@ Education
 <br>
 
 
-Research Projects
+Pre-doctoral Research
 ======
 * RA, HKU (Summer 2020)
   - Topic: Agent-based Modeling (Advisor: Prof. Xiaowei Zhang)
