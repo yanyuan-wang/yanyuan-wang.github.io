@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
-I am a Ph.D. candidate in Operations Research (OR) in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Department of Industrial Engineering and Decision Analytics (IEDA)</a> at HKUST, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
+I am a Ph.D. candidate in Operations Research (OR) in <a href="https://ieda.ust.hk/eng/index.php" target="_blank">Department of Industrial Engineering and Decision Analytics (IEDA)</a>, School of Engineering at HKUST, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
 </p>
 
 
