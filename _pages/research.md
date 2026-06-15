@@ -28,9 +28,13 @@ Direction I: LLMs &times; Simulation + Optimization
 
 <img src="/images/bridge.png">
 
-This work integrates LLMs into the task of service system design to capture behavioral realism. 
-The proposed LLM-MAS framework serves as both an explorer and an evaluator of viable system design, mirroring a digital twin that bridges game-theoretic analysis with reality.
 
+This work integrates LLMs into the task of service system design to capture behavioral realism. 
+The proposed framework represents a paradigm of human-AI collaboration.
+- AI: LLM-powered multi-agent system (LLM-MAS)
+- Human: system designer
+In this paradigm, LLM-MAS serves as both an explorer and an evaluator of viable system designs, 
+functioning as a digital twin that bridges game-theoretic analysis with real-world behavioral dynamics.
 
 <br>
 
