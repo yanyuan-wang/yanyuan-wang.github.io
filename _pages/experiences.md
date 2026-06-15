@@ -30,7 +30,7 @@ Pre-doctoral Projects
 * Research Assistant, HKU (Summer 2020)
   - Topic: Agent-based Modeling (Advisor: Prof. Xiaowei Zhang)
 * Research Assistant, SHU (2017-2019)
-  - Topic I: Digitalized FMCG Supply Chains (Advisor: Prof. <a href="https://baike.baidu.com/item/%E9%AB%98%E5%B3%BB%E5%B3%BB/20817391" target="_blank">Junjun Gao</a>)
+  - Topic I: Digitalized FMCG Supply Chains (Advisor: Prof. <a href="https://www.linkedin.com/in/junjun-gao-49317686/" target="_blank">Junjun Gao</a>)
   - Topic II: Corporate Finance in Commercial/Insurance Sectors (Advisor: Prof. Maoguo Wu)
   - Topic III: Risk Analysis of Stock Market (Advisor: Prof. Maoguo Wu)
 
