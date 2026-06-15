@@ -33,6 +33,7 @@ This work integrates LLMs into the task of service system design to capture beha
 The proposed framework represents a paradigm of human-AI collaboration.
 - AI: LLM-powered multi-agent system (LLM-MAS)
 - Human: system designer
+
 In this paradigm, LLM-MAS serves as both an explorer and an evaluator of viable system designs, 
 functioning as a digital twin that bridges game-theoretic analysis with real-world behavioral dynamics.
 
