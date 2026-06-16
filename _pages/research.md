@@ -52,7 +52,9 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
   - *(... other mechanism-design problems in dynamic markets)*
 
 
-**Happy to discuss further with interested collaborators!**
+<p style="color:#2563eb; font-weight:bold;">
+  Happy to discuss further with interested collaborators!
+</p>
 
 
 <br>
