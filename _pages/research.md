@@ -23,7 +23,7 @@ Research Interests
 Direction I: LLMs &times; Simulation + Optimization
 ======
 
-**Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
+Job Market Paper: **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
 
 
 <img src="/images/bridge.png">
@@ -31,8 +31,8 @@ Direction I: LLMs &times; Simulation + Optimization
 
 This work integrates LLMs into the task of service system design to capture behavioral realism. 
 The proposed framework represents a paradigm of human-AI collaboration.
-- AI: LLM-powered multi-agent system (LLM-MAS)
 - Human: system designer
+- AI: LLM-powered multi-agent system (LLM-MAS)
 
 In this paradigm, LLM-MAS serves as both an explorer and an evaluator of viable system designs, 
 functioning as a digital twin that bridges game-theoretic analysis with real-world behavioral dynamics.
@@ -57,7 +57,7 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
     <li><strong>Applicability:</strong> enable domain-specific applications
       <ul style="margin-top:6px; margin-bottom:6px;">
         <li>strategic queueing systems</li>
-        <li>online marketplaces (e.g. gig-economy platforms)</li>
+        <li>online marketplaces (e.g., gig-economy platforms)</li>
         <li>blockchain-based auctions</li>
         <li>cloud computing management</li>
         <li><em>(...other mechanism-design problems in dynamic markets)</em></li>
@@ -66,7 +66,7 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
   </ul>
 
   <p style="font-weight:bold; text-align:center; margin-top:1rem;">
-  Happy to discuss further with interested collaborators!
+  Look for to discuss further with interested collaborators!
   </p>
 </div>
 
