@@ -42,13 +42,13 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
 
 
 <div style="color:darkblue; font-family:'Inter',sans-serif; max-width:800px; margin:auto; line-height:1.6;">
-  <p>
-    Some Thoughts on Potential Directions in 
-    <strong>LLM-MAS&amp;O</strong> 
-    (<strong>LLM</strong>-powered 
-    <strong>M</strong>ulti-<strong>A</strong>gent 
-    <strong>S</strong>imulation &amp; <strong>O</strong>ptimization)
-  </p>
+<p style="color:darkblue; text-align:left;">
+  Some Thoughts on Potential Directions in 
+  <strong>LLM-MAS&amp;O</strong> 
+  (<strong>LLM</strong>-powered 
+  <strong>M</strong>ulti-<strong>A</strong>gent 
+  <strong>S</strong>imulation &amp; <strong>O</strong>ptimization)
+</p>
 
   <ul>
     <li><strong>Reliability:</strong> ensure behaviorally aligned systems <em>(work in progress)</em></li>
