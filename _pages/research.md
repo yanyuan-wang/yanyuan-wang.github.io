@@ -41,7 +41,7 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
 
 
 
-<div style="color:darkblue; font-family:'Inter',sans-serif; max-width:800px; margin:auto; line-height:1.6;">
+<div style="color:darkblue; font-family:'Inter',sans-serif; margin:auto; line-height:1.6;">
 <p style="color:darkblue; text-align:left;">
   Some Thoughts on Potential Directions in 
   <strong>LLM-MAS&amp;O</strong> 
@@ -54,13 +54,13 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
     <li><strong>Reliability:</strong> ensure behaviorally aligned systems <em>(work in progress)</em></li>
     <li><strong>Efficiency:</strong> achieve computational speedups for large-scale systems <em>(work in progress)</em></li>
     <li><strong>Robustness:</strong> address uncertainty in system configurations <em>(work in progress)</em></li>
-    <li><strong>Applicability:</strong> enable domain-specific applications, including:
+    <li><strong>Applicability:</strong> enable domain-specific applications
       <ul style="margin-top:6px; margin-bottom:6px;">
         <li>strategic queueing systems</li>
         <li>online marketplaces (e.g. gig-economy platforms)</li>
         <li>blockchain-based auctions</li>
         <li>cloud computing management</li>
-        <li><em>...other mechanism-design problems in dynamic markets</em></li>
+        <li><em>(...other mechanism-design problems in dynamic markets)</em></li>
       </ul>
     </li>
   </ul>
