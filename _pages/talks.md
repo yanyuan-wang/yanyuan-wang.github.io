@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-* <strong>Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
+* <strong>(JMP) Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
     - 2026 INFORMS Annual Meeting, San Francisco (Scheduled)
     - The 9th Workshop on Simulation Methods and Applications, Tianjin<sup>*</sup>
     - Mostly OM 2026 Workshop, Beijing<sup>*</sup>
