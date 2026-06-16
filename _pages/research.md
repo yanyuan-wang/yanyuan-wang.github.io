@@ -23,7 +23,7 @@ Research Interests
 Direction I: LLMs &times; Simulation + Optimization
 ======
 
-Job Market Paper: **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
+*(Job Market Paper)* **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
 
 
 <img src="/images/bridge.png">
