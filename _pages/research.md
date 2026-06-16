@@ -41,7 +41,7 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
 
 
 
-<p style="color:#2563eb; ">
+<p style="color:darkblue; ">
 Some Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
 - **Reliability:** ensure behaviorally aligned systems *(work in progress)*  
 - **Efficiency:** achieve computational speedups for large-scale systems *(work in progress)*  
@@ -55,7 +55,7 @@ Some Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ult
 </p>
 
 
-<p style="color:#2563eb; font-weight:bold;">
+<p style="color:darkblue; font-weight:bold;">
 Happy to discuss further with interested collaborators!
 </p>
 
