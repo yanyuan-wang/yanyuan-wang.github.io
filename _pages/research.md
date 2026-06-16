@@ -40,7 +40,9 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
 <br>
 
 
-> Some Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
+
+<p style="color:#2563eb">
+Some Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
 - **Reliability:** ensure behaviorally aligned systems *(work in progress)*  
 - **Efficiency:** achieve computational speedups for large-scale systems *(work in progress)*  
 - **Robustness:** address uncertainty in system configurations *(work in progress)*  
@@ -50,6 +52,7 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
   - blockchain-based auctions  
   - cloud computing management  
   - *(... other mechanism-design problems in dynamic markets)*
+</p>
 
 
 <p style="color:#2563eb; font-weight:bold;">
