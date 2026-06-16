@@ -41,23 +41,34 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
 
 
 
-<p style="color:darkblue; ">
-Some Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
-- **Reliability:** ensure behaviorally aligned systems *(work in progress)*  
-- **Efficiency:** achieve computational speedups for large-scale systems *(work in progress)*  
-- **Robustness:** address uncertainty in system configurations *(work in progress)*  
-- **Applicability:** enable domain-specific applications, including  
-  - strategic queueing systems  
-  - online marketplaces (e.g., gig-economy platforms)  
-  - blockchain-based auctions  
-  - cloud computing management  
-  - *(... other mechanism-design problems in dynamic markets)*
-</p>
+<div style="color:darkblue; font-family:'Inter',sans-serif; max-width:800px; margin:auto; line-height:1.6;">
+  <p>
+    Some Thoughts on Potential Directions in 
+    <strong>LLM-MAS&amp;O</strong> 
+    (<strong>LLM</strong>-powered 
+    <strong>M</strong>ulti-<strong>A</strong>gent 
+    <strong>S</strong>imulation &amp; <strong>O</strong>ptimization)
+  </p>
 
+  <ul>
+    <li><strong>Reliability:</strong> ensure behaviorally aligned systems <em>(work in progress)</em></li>
+    <li><strong>Efficiency:</strong> achieve computational speedups for large-scale systems <em>(work in progress)</em></li>
+    <li><strong>Robustness:</strong> address uncertainty in system configurations <em>(work in progress)</em></li>
+    <li><strong>Applicability:</strong> enable domain-specific applications, including:
+      <ul style="margin-top:6px; margin-bottom:6px;">
+        <li>strategic queueing systems</li>
+        <li>online marketplaces (e.g. gig-economy platforms)</li>
+        <li>blockchain-based auctions</li>
+        <li>cloud computing management</li>
+        <li><em>...other mechanism-design problems in dynamic markets</em></li>
+      </ul>
+    </li>
+  </ul>
 
-<p style="color:darkblue; font-weight:bold;">
-Happy to discuss further with interested collaborators!
-</p>
+  <p style="font-weight:bold; text-align:center; margin-top:1rem;">
+  Happy to discuss further with interested collaborators!
+  </p>
+</div>
 
 
 <br>
