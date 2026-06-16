@@ -53,7 +53,7 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
 
 
 <p style="color:#2563eb; font-weight:bold;">
-  Happy to discuss further with interested collaborators!
+Happy to discuss further with interested collaborators!
 </p>
 
 
