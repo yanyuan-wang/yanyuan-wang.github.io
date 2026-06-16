@@ -39,7 +39,8 @@ functioning as a digital twin that bridges game-theoretic analysis with real-wor
 
 <br>
 
-My Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
+
+> Some Thoughts on Potential Directions in **LLM-MAS&O** (**LLM**-powered **M**ulti-**A**gent **S**imulation & **O**ptimization)
 - **Reliability:** ensure behaviorally aligned systems *(work in progress)*  
 - **Efficiency:** achieve computational speedups for large-scale systems *(work in progress)*  
 - **Robustness:** address uncertainty in system configurations *(work in progress)*  
