@@ -29,13 +29,13 @@ Direction I: LLMs &times; Simulation + Optimization
 <img src="/images/bridge.png">
 
 
-This work integrates LLMs into the task of service system design to capture behavioral realism. 
-The proposed framework represents a paradigm of human-AI collaboration.
+**TL;DR** Integrate LLMs into service system design for behavioral realism 
+via a paradigm of human-AI collaboration.
 - Human: system designer
-- AI: LLM-powered multi-agent system (LLM-MAS)
+- AI: LLM-powered multi-agent system
 
-In this paradigm, LLM-MAS serves as both an explorer and an evaluator of viable system designs, 
-functioning as a digital twin that bridges game-theoretic analysis with real-world behavioral dynamics.
+LLM-MAS functions as both an explorer and an evaluator of system designs, 
+serving as a digital twin that connects game-theoretic analysis with real-world dynamics.
 
 <br>
 
@@ -88,9 +88,10 @@ Direction II: ML/GenAI &times; Optimization
 <img src="/images/overopt.png">
 
 
-This work studies the statistical-computational tradeoff in quantifying uncertainty for context-aware decision-making. 
-It uncovers a counterintuitive phenomenon that answers the question *"When does more data stop helping?"*
----exploring whether more samples invariably lead to better outcomes.
+**TL;DR** Examine the statistical-computational tradeoff in quantifying uncertainty 
+for context-aware decision-making under limited computational resources, 
+revealing a counterintuitive answer to *"When does more data stop helping?"*
+
 
 <br>
 <br>
@@ -106,7 +107,8 @@ Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation
 <img src="/images/nskrr.png">
 
 
-This work develops a sample-efficient method for high-dimensional uncertainty quantification.
-By a change of viewpoint, the estimation of risk functional of conditional expectation is converted into a ML task.
-Beyond portfolio risk management, it can also be applied to analyzing 
-how input uncertainty propagates through stochastic systems in domains such as healthcare operations, biopharmaceutical manufacturing, and power grid scheduling.
+**TL;DR** Introduce a sample-efficient approach to high-dimensional uncertainty quantification 
+by reframing risk functional estimation as a machine learning task, 
+with applications ranging from portfolio risk management 
+to uncertainty propagation through stochastic systems in domains 
+such as healthcare operations, biopharmaceutical manufacturing, and power grid scheduling.
