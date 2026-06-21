@@ -22,6 +22,7 @@ Teaching Interests
 * *(... and more in AI + Simulation/Optimization)*
 
 *(Tentative course content available upon request)*
+
 <br>
 
 Teaching Assistant
