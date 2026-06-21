@@ -11,7 +11,7 @@ author_profile: true
 
 Research Interests
 ======
-* AI/LLMs for Simulation and Optimization
+* AI/LLMs for Decision-making
 * Stochastic Optimization
 * Reinforcement Learning
 * Service Operations
@@ -109,6 +109,6 @@ Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation
 
 **TL;DR** Introduce a sample-efficient approach to high-dimensional uncertainty quantification 
 by reframing risk functional estimation as a machine learning task, 
-with applications ranging from portfolio risk management 
+with applications ranging from risk management 
 to uncertainty propagation through stochastic systems in domains 
 such as healthcare operations, biopharmaceutical manufacturing, and power grid scheduling.

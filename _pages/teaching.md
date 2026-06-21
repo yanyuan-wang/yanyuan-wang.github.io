@@ -17,10 +17,11 @@ Teaching Interests
 ====
 * Agentic AI for OM
 * GenAI/LLMs for OR
-* AI Simulation in Business Analytics
+* AI in Business Analytics
 * AI-driven Sequential Decision Making
 * *(... and more in AI + Simulation/Optimization)*
 
+*(Tentative course content available upon request)*
 <br>
 
 Teaching Assistant
