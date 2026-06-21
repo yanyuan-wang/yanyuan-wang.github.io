@@ -13,17 +13,19 @@ author_profile: true
 
 <br>
 
-Teaching Interests
+Potential Offerings
 ====
-* Agentic AI for OM
-* GenAI/LLMs for OR
-* AI in Business Analytics
+* GenAI/LLMs for Operations Research
 * AI-driven Sequential Decision Making
+* AI in Business Analytics
+* Agentic AI for Operations Management
+* Stochastic Models and Simulation 
 * *(... and more in AI + Simulation/Optimization)*
 
 *(Tentative course content available upon request)*
 
 <br>
+
 
 Teaching Assistant
 ====

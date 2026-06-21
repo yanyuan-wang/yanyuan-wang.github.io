@@ -32,7 +32,7 @@ Direction I: LLMs &times; Simulation + Optimization
 **TL;DR** Integrate LLMs into service system design for behavioral realism 
 via a paradigm of human-AI collaboration.
 - Human: system designer
-- AI: LLM-powered multi-agent system
+- AI: LLM-powered multi-agent system (silicon samples)
 
 LLM-MAS functions as both an explorer and an evaluator of system designs, 
 serving as a digital twin that connects game-theoretic analysis with real-world dynamics.
@@ -51,13 +51,13 @@ serving as a digital twin that connects game-theoretic analysis with real-world 
 </p>
 
   <ul>
-    <li><strong>Reliability:</strong> ensure behaviorally aligned systems <em>(work in progress)</em></li>
+    <li><strong>High-fidelity:</strong> ensure behaviorally aligned systems <em>(work in progress)</em></li>
     <li><strong>Efficiency:</strong> achieve computational speedups for large-scale systems <em>(work in progress)</em></li>
-    <li><strong>Robustness:</strong> address uncertainty in system configurations or changes in dynamic environments <em>(work in progress)</em></li>
+    <li><strong>Reliability & Robustness:</strong> address uncertainty in system configurations or changes in dynamic environments <em>(work in progress)</em></li>
     <li><strong>Applicability:</strong> enable domain-specific applications
       <ul style="margin-top:6px; margin-bottom:6px;">
         <li>strategic queueing systems</li>
-        <li>online marketplaces (e.g., gig-economy platforms)</li>
+        <li>online marketplaces (e.g., gig-economy platforms), digital marketing</li>
         <li>blockchain-based auctions</li>
         <li>cloud computing management</li>
         <li><em>(...other mechanism-design problems in dynamic markets)</em></li>
