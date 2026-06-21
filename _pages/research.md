@@ -11,7 +11,7 @@ author_profile: true
 
 Research Interests
 ======
-* AI/LLMs for Decision-making
+* AI/LLMs for Simulation and Optimization
 * Stochastic Optimization
 * Reinforcement Learning
 * Service Operations
