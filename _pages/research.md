@@ -57,7 +57,7 @@ serving as a digital twin that connects game-theoretic analysis with real-world 
     <li><strong>Applicability:</strong> enable domain-specific applications
       <ul style="margin-top:6px; margin-bottom:6px;">
         <li>strategic queueing systems</li>
-        <li>online marketplaces (e.g., gig-economy platforms), digital marketing</li>
+        <li>online marketplaces (e.g., gig-economy platforms)</li>
         <li>blockchain-based auctions</li>
         <li>cloud computing management</li>
         <li><em>(...other mechanism-design problems in dynamic markets)</em></li>
