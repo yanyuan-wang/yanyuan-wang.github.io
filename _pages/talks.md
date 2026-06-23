@@ -16,10 +16,9 @@ author_profile: true
     <!-- - 2026 INFORMS Conference on Quality, Statistics, and Reliability (Invited Session), Hong Kong (Scheduled) -->
     - The 9th Workshop on Simulation Methods and Applications, Tianjin<sup>*</sup>
     - Mostly OM 2026 Workshop, Beijing<sup>*</sup>
-    <!-- - Seminar, School of Management & Engineering, Nanjing University <sup>*</sup>  -->
-    <!-- - Seminar, School of Economics & Management, Southeast University <sup>*</sup> -->
+    - Seminar, School of Management & Engineering, Nanjing University <sup>*</sup> 
+    - Seminar, School of Economics & Management, Southeast University <sup>*</sup>
     - The Economics and Business of Artificial Intelligence Workshop, HKUST<sup>*</sup>
-    <!-- <a href="https://sme.nju.edu.cn/a5/34/c47266a828724/pagem.htm" target="_blank">Seminar</a>  <a href="https://em.seu.edu.cn/2026/0407/c57513a561054/page.htm" target="_blank">Seminar</a>
     
 * <strong>"Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making</strong>
     - The 16th POMS-HK International Conference (Invited Session), Shenzhen 
