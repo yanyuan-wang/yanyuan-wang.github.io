@@ -51,7 +51,7 @@ serving as a digital twin that connects game-theoretic analysis with real-world 
 </p>
 
   <ul>
-    <li><strong>Theory:</strong> refined algorithm <em>(work in progress)</em></li>
+    <li><strong>Theoretical depth:</strong> refined algorithm <em>(work in progress)</em></li>
     <li><strong>High-fidelity:</strong> ensure behaviorally aligned systems <em>(work in progress)</em></li>
     <li><strong>Efficiency:</strong> achieve computational speedups </li>
     <li><strong>Scalability:</strong> scale up to large service systems </li>
