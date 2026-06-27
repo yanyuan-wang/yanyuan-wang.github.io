@@ -114,3 +114,6 @@ by reframing risk functional estimation as a machine learning task,
 with applications ranging from risk management 
 to uncertainty propagation through stochastic systems in domains 
 such as healthcare operations, biopharmaceutical manufacturing, and power grid scheduling.
+
+
+<img src="/images/uq.png">
