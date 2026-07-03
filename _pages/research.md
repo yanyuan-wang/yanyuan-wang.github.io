@@ -68,7 +68,7 @@ serving as a digital twin that connects game-theoretic analysis with real-world 
   </ul>
 
   <p style="font-weight:bold; text-align:center; margin-top:1rem;">
-  &#128226; Look for to discuss further with interested collaborators!
+  &#128226; Excited to connect and discuss further with anyone interested in collaborating!
   </p>
 </div>
 
