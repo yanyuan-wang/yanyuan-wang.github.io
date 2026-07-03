@@ -90,9 +90,12 @@ Direction II: ML/GenAI &times; Optimization
 <img src="/images/overopt.png">
 
 
-**TL;DR** Examine the statistical-computational tradeoff in quantifying uncertainty 
-for context-aware decision-making under limited computational resources, 
+**TL;DR** Inspired by the AI triad: computing power, data, and algorithm. 
+Examine the statistical-computational tradeoff in quantifying uncertainty 
+for context-aware decision-making under given computational resources, 
 revealing a counterintuitive answer to *"When does more data stop helping?"*
+
+
 
 
 <br>
