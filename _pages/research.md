@@ -52,7 +52,7 @@ serving as a digital twin that connects game-theoretic analysis with real-world 
 
   <ul>
     <li><strong>Theoretical-depth:</strong> refined algorithm <em>(work in progress)</em></li>
-    <li><strong>High-fidelity:</strong> ensure behaviorally aligned systems <em>(work in progress)</em></li>
+    <li><strong>High-fidelity:</strong> ensure behaviorally aligned systems (post-training, model configuration) <em>(work in progress)</em></li>
     <li><strong>Robustness:</strong> address uncertainty in system configurations, adapt to dynamic environments (e.g., model evolution, data leakege)</li>
     <li><strong>Efficiency:</strong> achieve computational speedups </li>
     <li><strong>Scalability:</strong> scale up to large service systems </li>
