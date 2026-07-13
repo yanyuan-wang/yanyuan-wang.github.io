@@ -32,4 +32,4 @@ author_profile: true
 
 
 
-<!-- 2026 INFORMS Conference on Quality, Statistics, and Reliability (Invited Session), Hong Kong (Scheduled) -->
+<!-- 2026 INFORMS Conference on Quality, Statistics, and Reliability (Invited Session), Hong Kong -->
