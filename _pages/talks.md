@@ -13,6 +13,7 @@ author_profile: true
 * <strong>(JMP) Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
     - 2026 INFORMS Annual Meeting, San Francisco (Scheduled)
     - 2026 POMS-China International Conference (Invited Session), Shanxi (Scheduled)
+    - 2026 INFORMS Conference on Quality, Statistics, and Reliability (Invited Session), Hong Kong
     - The 9th Workshop on Simulation Methods and Applications, Tianjin<sup>*</sup>
     - Mostly OM 2026 Workshop, Beijing<sup>*</sup>
     - Seminar, School of Management & Engineering, Nanjing University<sup>*</sup> 
@@ -32,4 +33,3 @@ author_profile: true
 
 
 
-<!-- 2026 INFORMS Conference on Quality, Statistics, and Reliability (Invited Session), Hong Kong -->
