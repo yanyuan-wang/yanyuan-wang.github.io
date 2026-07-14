@@ -43,7 +43,7 @@ serving as a digital twin that connects game-theoretic analysis with real-world 
 
 <div style="color:darkblue; font-family:'Inter',sans-serif; margin:auto; line-height:1.6;">
 <p style="color:darkblue; text-align:left;">
-  Some Thoughts on Potential Directions in 
+  Envisioning Future Research Directions in
   <strong>LLM-MAS&amp;O</strong> 
   (<strong>LLM</strong>-powered 
   <strong>M</strong>ulti-<strong>A</strong>gent 
@@ -52,8 +52,8 @@ serving as a digital twin that connects game-theoretic analysis with real-world 
 
   <ul>
     <li><strong>Theoretical-depth:</strong> refined algorithm <em>(work in progress)</em></li>
-    <li><strong>High-fidelity:</strong> ensure behaviorally aligned systems (post-training, model selection) <em>(work in progress)</em></li>
-    <li><strong>Robustness:</strong> address uncertainty in system configurations, adapt to dynamic environments (e.g., model evolution, data leakage)</li>
+    <li><strong>High-fidelity:</strong> ensure behaviorally aligned systems (post-training, model choice) <em>(work in progress)</em></li>
+    <li><strong>Robustness:</strong> address configurations uncertainty, adapt to evolving environments, and control delusion</li>
     <li><strong>Efficiency:</strong> achieve computational speedups </li>
     <li><strong>Scalability:</strong> scale up to large systems </li>
     <li><strong>Applicability:</strong> enable domain-specific applications
