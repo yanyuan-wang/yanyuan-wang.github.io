@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+- Second Prize, 2026 POMS-China Best Student Paper Competition
 - RedBird Academic Excellence Award (Highest Honor), HKUST (2025-2026)
 - RedBird Academic Excellence Award (Highest Honor), HKUST (2024-2025)
 - Dean's Honors List, HKU (2020)

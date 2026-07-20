@@ -24,7 +24,7 @@ Direction I: LLMs &times; Simulation + Optimization
 ======
 
 *(Job Market Paper)* **Yanyuan Wang** and Xiaowei Zhang (2026). Optimizing Service Operations via LLM-powered Multi-agent Simulation. <a href="https://arxiv.org/abs/2604.04383" target="_blank">*Under Review*</a>.
-- Second Prize, 2026 POMS-China Best Student Paper Competition.  
+- Second Prize, 2026 POMS-China Best Student Paper Competition
 
 <img src="/images/bridge.png">
 
