@@ -17,7 +17,7 @@ Potential Offerings
 ====
 * GenAI/LLMs for Operations Research
 * Agentic AI for Operations Management
-* AI-driven Sequential Decision-Making
+* AI-driven Sequential Decision-making
 * AI in Business Analytics
 * Applied Stochastic Systems Modeling and Analysis
 * *(... and more in AI + Simulation/Optimization)*
