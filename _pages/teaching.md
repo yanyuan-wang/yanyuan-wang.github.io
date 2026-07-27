@@ -19,7 +19,7 @@ Potential Offerings
 * Agentic AI for Operations Management
 * AI-driven Sequential Decision-Making
 * AI in Business Analytics
-* Stochastic Models and Simulation 
+* Applied Stochastic Systems Modeling and Analysis
 * *(... and more in AI + Simulation/Optimization)*
 
 *(Tentative course content available upon request)*
