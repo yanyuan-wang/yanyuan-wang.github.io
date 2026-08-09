@@ -35,7 +35,7 @@ Teaching Assistant
 
 <br>
 
-K12 Teaching
+K12 Education
 ======
 * Instructor: JA Economy (Fall 2017)
 * Committee Member: JA Student Volunteer Program (2018)
