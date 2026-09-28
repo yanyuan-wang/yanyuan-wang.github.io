@@ -11,7 +11,7 @@ author_profile: true
 
 
 * <strong>(JMP) Optimizing Service Operations via LLM-powered Multi-agent Simulation</strong>
-    - Analytics for X 2026, Singapore
+    - Analytics for X 2026o, Singapore
     - 2026 POMS-China International Conference (Invited Session), Xi'an
     - 2026 INFORMS Conference on Quality, Statistics, and Reliability (Invited Session), Hong Kong
     - The 9th Workshop on Simulation Methods and Applications, Tianjin<sup>*</sup>

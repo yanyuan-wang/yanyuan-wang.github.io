@@ -13,6 +13,7 @@ author_profile: true
 Journal Reviewer
 ======
 * Operations Research
+* Production and Operations Management
 * Naval Research Logistics
 * Asia-Pacific Journal of Operational Research
 
