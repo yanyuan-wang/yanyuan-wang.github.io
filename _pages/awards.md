@@ -8,6 +8,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+- <a href="https://risingstarsasia.org/index.php" target="_blank">Asian Deans' Forum 2026 \& Rising Stars Women in Engineering Workshop</a>
 - Second Prize, 2026 POMS-China Best Student Paper Competition
 - RedBird Academic Excellence Award (Highest Honor), HKUST (2025-2026)
 - RedBird Academic Excellence Award (Highest Honor), HKUST (2024-2025)
