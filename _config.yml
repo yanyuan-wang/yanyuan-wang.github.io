@@ -30,7 +30,7 @@ author:
   location         : "Hong Kong SAR"
   employer         : "HKUST"
   email            : "yanyuan.wang@connect.ust.hk"
-  uri              : "yanyuan.wang1126@gmail.com" 
+  email-alternative: "yanyuan.wang1126@gmail.com" 
 
   # Academic websites
   academia         : 
