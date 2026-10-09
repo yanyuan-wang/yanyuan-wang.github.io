@@ -120,4 +120,7 @@ Introduce a sample-efficient approach to high-dimensional uncertainty quantifica
 by framing unknown function estimation as a machine learning task and leveraging smoothness to reduce functional search complexity. 
 Applications include risk management and uncertainty propagation in stochastic systems across healthcare operations, biopharmaceutical manufacturing, and power grid scheduling, etc.
 
-<img src="/images/uq.png">
+
+<p align="center">
+  <img src="/images/uq.png" width="80%">
+</p>
