@@ -26,7 +26,6 @@ Education
 
 
 
-
 Pre-doctoral Research
 ======
 * Research Assistant, HKU (Summer 2020)
