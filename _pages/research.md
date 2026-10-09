@@ -29,7 +29,10 @@ Direction I: LLMs &times; Simulation + Optimization
 
 - Second Prize, 2026 POMS-China Best Student Paper Competition
 
-<img src="/images/bridge.jpg">
+<div style="text-align: center;">
+  <img src="/images/bridge.jpg" style="width: 80%; height: auto;">
+</div>
+
 
 **TL;DR** Integrate LLMs into system design to enable behavioral awareness through a human-AI collaboration paradigm.
 - Human: system designer
@@ -87,8 +90,9 @@ Direction II: ML/GenAI &times; Optimization
 **Yanyuan Wang** and Xiaowei Zhang (2026). "Over-optimizing" for Normality: Budget-constrained Uncertainty Quantification for Contextual Decision-making. <a href="https://arxiv.org/abs/2503.12747" target="_blank">*Major Revision at Manufacturing & Service Operations Management*</a>.
 
 
-<img src="/images/overopt.png">
-
+<div style="text-align: center;">
+  <img src="/images/overopt.png" style="width: 80%; height: auto;">
+</div>
 
 **TL;DR** Inspired by the AI triad: computing power, data and algorithm. 
 Examine the statistical-computational tradeoff in quantifying uncertainty 
@@ -108,9 +112,9 @@ Direction III: ML &times; Simulation
 
 Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation: Bridging Cubic and Square Root Convergence Rates in High Dimensions. <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.00204" target="_blank">*Management Science*</a>.
 
-
-<img src="/images/nskrr.png">
-
+<div style="text-align: center;">
+  <img src="/images/nskrr.png" style="width: 80%; height: auto;">
+</div>
 
 **TL;DR** 
 Introduce a sample-efficient approach to high-dimensional uncertainty quantification 
