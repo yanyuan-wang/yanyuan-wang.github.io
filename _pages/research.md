@@ -121,6 +121,7 @@ Wenjia Wang, **Yanyuan Wang** and Xiaowei Zhang (2024). Smooth Nested Simulation
 **TL;DR** 
 Introduce a sample-efficient approach to high-dimensional uncertainty quantification 
 by framing unknown function estimation as a machine learning task and leveraging smoothness to reduce functional search complexity. 
+
 Applications include risk management and uncertainty propagation in stochastic systems in healthcare operations, biopharmaceutical manufacturing, and power0grid scheduling, etc.
 
 
