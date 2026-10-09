@@ -32,8 +32,12 @@ Pre-doctoral Research
   - Topic: Agent-based Modeling and Simulation (Advisor: Prof. Xiaowei Zhang)
 * Research Assistant, SHU (2017-2019)
   - Topic I: FMCG Supply Chain Digitalization (Advisor: Prof. <a href="https://www.linkedin.com/in/junjun-gao-49317686/" target="_blank">Junjun Gao</a>)
-  - Topic II: Stock Market Risk Analysis (Advisor: Prof. Maoguo Wu)
-  - Topic III: Corporate Finance in Commercial and Insurance Sectors (Advisor: Prof. Maoguo Wu)
+  - Topic II: [Stock Market Risk Analysis](https://www.sohu.com/a/237321474_802544#google_vignette) (Advisor: Prof. Maoguo Wu)
+  - Topic III: Corporate Finance Decision and Operational Performance (Advisor: Prof. Maoguo Wu)
 <br>
 
 
+Outreach 
+======
+- Social Practices: [Transport Infrastructure and Regional Economic Growth](https://youth.shu.edu.cn/info/1010/15029.htm)
+- Entrepreneurship Project: [UFamily](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=297055&year=2018&type=student&IsLXItem=0)
