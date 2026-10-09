@@ -30,7 +30,13 @@ Direction I: LLMs &times; Simulation + Optimization
 - Second Prize, 2026 POMS-China Best Student Paper Competition
 
 <div style="width: 100%; text-align: center;">
-  <img src="/images/bridge.jpg" style="display: block !important; width: 80% !important; height: auto !important; margin-left: auto !important; margin-right: auto !important;">
+  <img src="/images/bridge.jpg"
+     style="display: block !important;
+            float: none !important;
+            width: 80%;
+            height: auto;
+            margin-left: auto !important;
+            margin-right: auto !important;">
 </div>
 
 **TL;DR** Integrate LLMs into system design to enable behavioral awareness through a human-AI collaboration paradigm.
