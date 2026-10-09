@@ -37,5 +37,5 @@ Teaching Assistant
 
 K12 Education
 ======
-* Instructor: JA Economy (Fall 2017)
-* Committee Member: [JA China](https://www.jachina.org/index.html?lang=en_US) Student Volunteer Program (2018)
+* Instructor ([Student Volunteer](/files/outreach17.jpg)): *JA Economy* (Fall 2017)
+* Committee Member: [JA China](https://www.jachina.org/index.html?lang=en_US) [Student Volunteer Program](/files/outreach18.jpg) (2018)
