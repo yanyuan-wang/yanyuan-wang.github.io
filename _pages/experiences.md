@@ -35,7 +35,6 @@ Pre-doctoral Research
   - Topic II: [Stock Market Risk Analysis](https://mp.weixin.qq.com/s/5azEUT4cXaeovbUrd8Sy3g) (Advisor: Prof. Maoguo Wu)
     
     [The 16th International Conference of Australian Studies in China: Australia in the Changing World](https://www.sohu.com/a/237321474_802544#google_vignette)
-    
   - Topic III: Corporate Finance Decision and Operational Performance (Advisor: Prof. Maoguo Wu)
 <br>
 
