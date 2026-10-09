@@ -30,7 +30,7 @@ Direction I: LLMs &times; Simulation + Optimization
 - Second Prize, 2026 POMS-China Best Student Paper Competition
 
 <div style="text-align: center;">
-  <img src="/images/bridge.jpg" style="width: 80%; height: auto;">
+  <img src="/images/bridge.jpg" style="display: block; width: 80%; height: auto; margin: 0 auto;">
 </div>
 
 
