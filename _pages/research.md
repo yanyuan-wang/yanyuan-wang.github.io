@@ -95,7 +95,8 @@ Direction II: ML/GenAI &times; Optimization
   <img src="/images/overopt.png" width="80%">
 </p>
 
-**TL;DR**Inspired by the three pillars of AI---data, compute, and algorithms
+**TL;DR** Inspired by the three pillars of AI---data, compute, and algorithms.
+
 Examine the statistical-computational tradeoff in quantifying uncertainty 
 for context-aware decision-making, 
 revealing a counterintuitive answer to *"When does more data stop helping?"*
