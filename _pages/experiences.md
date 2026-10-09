@@ -33,7 +33,9 @@ Pre-doctoral Research
 * Research Assistant, SHU (2017-2019)
   - Topic I: FMCG Supply Chain Digitalization (Advisor: Prof. <a href="https://www.linkedin.com/in/junjun-gao-49317686/" target="_blank">Junjun Gao</a>)
   - Topic II: [Stock Market Risk Analysis](https://mp.weixin.qq.com/s/5azEUT4cXaeovbUrd8Sy3g) (Advisor: Prof. Maoguo Wu)
+    
     [The 16th International Conference of Australian Studies in China: Australia in the Changing World](https://www.sohu.com/a/237321474_802544#google_vignette)
+    
   - Topic III: Corporate Finance Decision and Operational Performance (Advisor: Prof. Maoguo Wu)
 <br>
 
