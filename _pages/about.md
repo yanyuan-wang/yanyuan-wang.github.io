@@ -13,7 +13,7 @@ author_profile: true
 
 <div style="text-align: justify; text-justify: inter-word;">
 <p style="margin-bottom: 1.5em;">
-I am a final-year Ph.D. candidate in the Department of Industrial Engineering and Decision Analytics, at HKUST School of Engineering, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
+I am a final-year Ph.D. candidate in the Department of Industrial Engineering and Decision Analytics, at the HKUST School of Engineering, where I am fortunate to be advised by Prof. <a href="https://xiaoweiz.github.io/" target="_blank">Xiaowei Zhang</a>. 
 </p>
 
 
@@ -34,7 +34,7 @@ I am a final-year Ph.D. candidate in the Department of Industrial Engineering an
 
 
 <p style="margin-bottom: 1.5em;">
-I welcome discussions on related topics and opportunities for collaboration. Feel free to
+I welcome discussions on related topics and opportunities to collaborate. Feel free to
 <a href="https://teams.microsoft.com/l/chat/0/0?users=ywangrj@connect.ust.hk" target="_blank">reach out</a>. 
 </p> 
 
