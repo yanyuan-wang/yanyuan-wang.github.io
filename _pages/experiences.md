@@ -52,4 +52,4 @@ Outreach
 Skills
 ======
 - Languages: German (Elementary proficiency, 2017), English (Professional working proficiency)
-- Skills: Python, R, Julia, MATLAB, MySQL
+- Programming: Python, R, Julia, MATLAB, MySQL, Stata
