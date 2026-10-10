@@ -21,7 +21,6 @@ Education
   - GPA: 4.21/4.30 (Distinction)
 * B.B.A. in Business Administration, SHU (2015-2019)
   - GPA: 3.84/4.00 (Top 0.5%)
-
 <br>
 
 
