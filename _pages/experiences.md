@@ -21,6 +21,7 @@ Education
   - GPA: 4.21/4.30 (Distinction)
 * B.B.A. in Business Administration, SHU (2015-2019)
   - GPA: 3.84/4.00 (Top 0.5%)
+    
 <br>
 
 
@@ -34,6 +35,7 @@ Pre-doctoral Research
     - The 16th International Conference of Australian Studies in China: Australia in the Changing World (Research Workshop for PG Students)
     - International Conference on Development of Capital Markets and Reform of Corporate Governance in Emerging Markets (2018)
   - Topic III: Corporate Finance Decision and Operational Performance (Advisor: Prof. Maoguo Wu)
+
 <br>
 
 
