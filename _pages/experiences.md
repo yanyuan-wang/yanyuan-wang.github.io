@@ -44,3 +44,12 @@ Outreach
 - Social Practices: [Transport Infrastructure and Regional Economic Growth](https://youth.shu.edu.cn/info/1010/15029.htm)
 - Entrepreneurship Project: [UFamily](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=297055&year=2018&type=student&IsLXItem=0)
 - Beijing Volunteer Union (2009-2015), Student Association & Clubs (2015-2017)
+
+
+<br>
+
+
+Skills
+======
+- Languages: German (Elementary proficiency, 2017), English (Professional working proficiency)
+- Skills: Python, R, Julia, MATLAB, MySQL
